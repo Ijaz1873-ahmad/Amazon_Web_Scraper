@@ -1,6 +1,6 @@
 from file_reader import load_search_queries
 from amazon_scraper import scrape_search_query
-from products_saver import save_products
+from product_saver import save_products
 
 def main():
     queries = load_search_queries("user_queries.json")

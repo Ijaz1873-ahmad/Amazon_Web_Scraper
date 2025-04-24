@@ -23,7 +23,7 @@ const ProductTable = ({ data }) => {
               <TableCell>{item.title}</TableCell>
               <TableCell>{item.price}</TableCell>
               <TableCell>{item.total_reviews}</TableCell>
-              <TableCell>{item.scraped_at}</TableCell>
+              <TableCell>{item.scraped_time}</TableCell>
             </TableRow>
           ))}
         </TableBody>

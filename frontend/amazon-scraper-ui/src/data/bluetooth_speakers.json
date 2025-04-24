@@ -1,114 +1,2984 @@
 [
   {
+    "title": "Amazon Echo Dot (newest model), Vibrant sounding Alexa speaker, Great for bedrooms, dining rooms and offices, Deep Sea Blue",
+    "price": "N/A (price not mentioned)",
+    "total_reviews": "154,290",
+    "image_url": "https://m.media-amazon.com/images/I/619hX-YnuKL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:44:33.723461"
+  },
+  {
+    "title": "Amazon Fire TV Soundbar (newest model), 2.0 speaker with DTS Virtual:X and Dolby Audio, Bluetooth connectivity",
+    "price": "N/A (price not mentioned)",
+    "total_reviews": "4,448",
+    "image_url": "https://m.media-amazon.com/images/I/71izIXUYy0L._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:44:33.725689"
+  },
+  {
     "title": "Anker Soundcore 2 Portable Bluetooth Speaker with IPX7 Waterproof, 24-Hour Playtime, Wireless Stereo Pairing, 12W Stereo Sound, Bluetooth 5, Bassup, Electronics for Home, Shower, Outdoors, Travel",
     "price": "$44.99",
-    "total_reviews": "131,364",
+    "total_reviews": "131,374",
     "image_url": "https://m.media-amazon.com/images/I/614l20nEhmL._AC_UY218_.jpg",
-    "Scraped Time": "2025-04-24T13:43:34.333139"
+    "scraped_time": "2025-04-24T17:44:33.727500"
   },
   {
     "title": "Bluetooth Speaker with HD Sound, Portable Wireless, IPX5 Waterproof, Up to 20H Playtime, TWS Pairing, BT5.3, for Home/Party/Outdoor/Beach, Electronic Gadgets, Birthday Gift (Black)",
     "price": "$21.99",
-    "total_reviews": "23,428",
+    "total_reviews": "23,430",
     "image_url": "https://m.media-amazon.com/images/I/81l7mB5LhsL._AC_UY218_.jpg",
-    "Scraped Time": "2025-04-24T13:43:34.334368"
+    "scraped_time": "2025-04-24T17:44:33.728618"
+  },
+  {
+    "title": "Ortizan Outdoor Speaker, Bluetooth Speaker with Lights, 50W Stereo Sound, IPX5 Waterproof, 24H Playtime, Sync up to 100 Wireless Speakers, Portable for Outdoors/Patio/Porch, Tech Gadgets, Gift for Men",
+    "price": "$69.99",
+    "total_reviews": "72",
+    "image_url": "https://m.media-amazon.com/images/I/61V60BskbaL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:44:33.729712"
   },
   {
     "title": "Monster S310 Bluetooth Speaker, Portable Bluetooth Speaker, 30W True Wireless Stereo Pairing Deliver Dynamic Sound, IPX5 Waterproof, Built-in Mic, 24H, for Family Outdoor",
     "price": "$39.99",
     "total_reviews": "399",
     "image_url": "https://m.media-amazon.com/images/I/915Hb6VnCgL._AC_UY218_.jpg",
-    "Scraped Time": "2025-04-24T13:43:34.335463"
+    "scraped_time": "2025-04-24T17:44:33.730773"
+  },
+  {
+    "title": "Amazon Echo Show 5 (newest model), Smart display with 2x the bass and clearer sound, Charcoal",
+    "price": "N/A (price not mentioned)",
+    "total_reviews": "45,874",
+    "image_url": "https://m.media-amazon.com/images/I/51CYzU8PL4L._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:44:33.732945"
   },
   {
     "title": "JBL Charge 4 - Waterproof Portable Bluetooth Speaker - Black",
     "price": "N/A (price not mentioned)",
-    "total_reviews": "56,045",
+    "total_reviews": "56,046",
     "image_url": "https://m.media-amazon.com/images/I/61tvFn1zW9L._AC_UY218_.jpg",
-    "Scraped Time": "2025-04-24T13:43:34.336756"
-  },
-  {
-    "title": "Bose SoundLink Flex Portable Bluetooth Speaker (2nd Gen), Portable Outdoor Speaker with Hi-Fi Audio, Up to 12 Hours Battery Life, Waterproof and Dustproof, Alpine Sage",
-    "price": "N/A (price not mentioned)",
-    "total_reviews": "2,560",
-    "image_url": "https://m.media-amazon.com/images/I/71uv8YRxwuL._AC_UY218_.jpg",
-    "Scraped Time": "2025-04-24T13:43:34.338387"
+    "scraped_time": "2025-04-24T17:44:33.734176"
   },
   {
     "title": "Portable Bluetooth Speaker with LED Lights, 24W Loud Sound Punchy Bass, Portable Wireless Up to 10H Playtime, Built-in Mic Bluetooth 5.3, IPX6 Waterproof Wireless Speaker for Home/Outdoor/Party/Beach",
     "price": "$24.99",
     "total_reviews": "301",
     "image_url": "https://m.media-amazon.com/images/I/71DUiTqBCRL._AC_UY218_.jpg",
-    "Scraped Time": "2025-04-24T13:43:34.340059"
+    "scraped_time": "2025-04-24T17:44:33.735234"
+  },
+  {
+    "title": "Portable Magnetic Bluetooth Golf Speaker Small Wireless Speaker Wall Mountable Speaker with RGB Light 7.5H Playtime TWS Pairing Game Accessories for iPhone 12/13/14/15(Yellow)",
+    "price": "$9.99",
+    "total_reviews": "3",
+    "image_url": "https://m.media-amazon.com/images/I/61oqrkfZsEL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:44:33.736273"
+  },
+  {
+    "title": "Bose SoundLink Flex Portable Bluetooth Speaker (2nd Gen), Portable Outdoor Speaker with Hi-Fi Audio, Up to 12 Hours Battery Life, Waterproof and Dustproof, Alpine Sage",
+    "price": "N/A (price not mentioned)",
+    "total_reviews": "2,562",
+    "image_url": "https://m.media-amazon.com/images/I/71uv8YRxwuL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:44:33.737501"
+  },
+  {
+    "title": "Amazon Echo Pop (newest model), Our smallest Alexa speaker, Fits in any room, Midnight Teal",
+    "price": "N/A (price not mentioned)",
+    "total_reviews": "83,324",
+    "image_url": "https://m.media-amazon.com/images/I/71pEY++5qXL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:44:33.739679"
   },
   {
     "title": "IPX7 Waterproof Bluetooth Speaker, 40W(60 Peak) Portable Wireless Speakers with Subwoofer, 32H Playtime, Stereo Loud Sound, Deep Bass, Bluetooth 5.0 with Handle for Pool, Beach, Outdoor, Gifts",
     "price": "$59.49",
     "total_reviews": "6,611",
     "image_url": "https://m.media-amazon.com/images/I/81Xi7TgdkTL._AC_UY218_.jpg",
-    "Scraped Time": "2025-04-24T13:43:34.341293"
+    "scraped_time": "2025-04-24T17:44:33.740728"
   },
   {
     "title": "Ortizan Portable Bluetooth Speaker: IPX7 Waterproof, 24W Loud Sound, Deep Bass, Bluetooth 5.3, LED Lights, Wireless Stereo Pairing, 30H Playtime, for Home/Outdoor/Party/Beach, Birthday Gift (Black)",
     "price": "$29.59",
-    "total_reviews": "41,633",
+    "total_reviews": "41,636",
     "image_url": "https://m.media-amazon.com/images/I/81-YRA6tQqL._AC_UY218_.jpg",
-    "Scraped Time": "2025-04-24T13:43:34.342397"
+    "scraped_time": "2025-04-24T17:44:33.741796"
   },
   {
     "title": "JBL CHARGE 5 - Portable Waterproof (IP67) Bluetooth Speaker with Powerbank USB Charge out, 20 hours playtime, JBL Partyboost (Black)",
     "price": "$152.99",
-    "total_reviews": "31,674",
+    "total_reviews": "31,678",
     "image_url": "https://m.media-amazon.com/images/I/61qMO3TS2RL._AC_UY218_.jpg",
-    "Scraped Time": "2025-04-24T13:43:34.343468"
+    "scraped_time": "2025-04-24T17:44:33.742885"
   },
   {
     "title": "Bluetooth Speaker, 40W (60W Peak) Portable Wireless Speaker with Colorful Lights, Double Subwoofer Heavy Bass, FM Radio, MP3 Player, Bluetooth 5.0, Loud Stereo speakers for Home Outdoor Party Camping",
     "price": "$35.98",
     "total_reviews": "4,380",
     "image_url": "https://m.media-amazon.com/images/I/71thuFyPy3L._AC_UY218_.jpg",
-    "Scraped Time": "2025-04-24T13:43:34.344554"
-  },
-  {
-    "title": "Klipsch The One Plus Premium Bluetooth Speaker System with Two 2.25\u201d Full Range Drivers, 4.5\u201d Woofer, Bluetooth 5.3 with Up to 40 ft. of Distance, Walnut",
-    "price": "$152.20",
-    "total_reviews": "191",
-    "image_url": "https://m.media-amazon.com/images/I/81kLF0BDSSL._AC_UY218_.jpg",
-    "Scraped Time": "2025-04-24T13:43:34.345635"
-  },
-  {
-    "title": "JBL Go 4 - Ultra-Portable, Waterproof and Dustproof Bluetooth Speaker, Big Pro Sound with Punchy bass, 7-Hour Built-in Battery, Made in Part with Recycled Materials (Blue)",
-    "price": "N/A (price not mentioned)",
-    "total_reviews": "4,358",
-    "image_url": "https://m.media-amazon.com/images/I/71yLyiSmJRL._AC_UY218_.jpg",
-    "Scraped Time": "2025-04-24T13:43:34.347724"
-  },
-  {
-    "title": "BUGANI Bluetooth Speaker, Shock Portable Bluetooth Speaker, Bluetooth 5.3, Waterproof, Wireless Speakers, 60W Super Power, Outdoor Speaker, Black (New Model)",
-    "price": "$59.99",
-    "total_reviews": "86",
-    "image_url": "https://m.media-amazon.com/images/I/813nBg0DT+L._AC_UY218_.jpg",
-    "Scraped Time": "2025-04-24T13:43:34.348802"
-  },
-  {
-    "title": "Edifier R1280DB Powered Bluetooth Bookshelf Speakers - Optical Input - Wireless Studio Monitors - 4 Inch Near Field Speaker - 42W RMS - Wood Grain (Black)",
-    "price": "$149.99",
-    "total_reviews": "3,443",
-    "image_url": "https://m.media-amazon.com/images/I/913SI3UTzTL._AC_UY218_.jpg",
-    "Scraped Time": "2025-04-24T13:43:34.349878"
-  },
-  {
-    "title": "KMAG Portable Bluetooth Speaker - IPX7 Waterproof Wireless Speakers with 80W Loud HiFi Stereo Sound, 20H Playtime, Dynamic Light, Deep Bass, Dual Pairing, 5.3 BT for Outdoor, Gifts",
-    "price": "$59.99",
-    "total_reviews": "908",
-    "image_url": "https://m.media-amazon.com/images/I/81vcHTYKWjL._AC_UY218_.jpg",
-    "Scraped Time": "2025-04-24T13:43:34.350958"
+    "scraped_time": "2025-04-24T17:44:33.743932"
   },
   {
     "title": "Portable Bluetooth Speaker, IPX7 Waterproof Wireless Speakers with Colorful Flashing Lights, 25W Super Bass 24H Playtime, 100ft Range, TWS Pairing for Outdoor, Home, Party, Beach, Birthday Gift",
     "price": "$29.95",
     "total_reviews": "10,696",
     "image_url": "https://m.media-amazon.com/images/I/81UVhXfnT9L._AC_UY218_.jpg",
-    "Scraped Time": "2025-04-24T13:43:34.352080"
+    "scraped_time": "2025-04-24T17:44:33.745350"
+  },
+  {
+    "title": "BUGANI Bluetooth Speaker, Shock Portable Bluetooth Speaker, Bluetooth 5.3, Waterproof, Wireless Speakers, 60W Super Power, Outdoor Speaker, Black (New Model)",
+    "price": "$59.99",
+    "total_reviews": "86",
+    "image_url": "https://m.media-amazon.com/images/I/813nBg0DT+L._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:44:33.746400"
+  },
+  {
+    "title": "JBL Go 4 - Ultra-Portable, Waterproof and Dustproof Bluetooth Speaker, Big Pro Sound with Punchy bass, 7-Hour Built-in Battery, Made in Part with Recycled Materials (Blue)",
+    "price": "N/A (price not mentioned)",
+    "total_reviews": "4,363",
+    "image_url": "https://m.media-amazon.com/images/I/71yLyiSmJRL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:44:33.748409"
+  },
+  {
+    "title": "Edifier R1280DB Powered Bluetooth Bookshelf Speakers - Optical Input - Wireless Studio Monitors - 4 Inch Near Field Speaker - 42W RMS - Wood Grain (Black)",
+    "price": "$149.99",
+    "total_reviews": "3,443",
+    "image_url": "https://m.media-amazon.com/images/I/913SI3UTzTL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:44:33.749457"
+  },
+  {
+    "title": "Klipsch The One Plus Premium Bluetooth Speaker System with Two 2.25\u201d Full Range Drivers, 4.5\u201d Woofer, Bluetooth 5.3 with Up to 40 ft. of Distance, Walnut",
+    "price": "$152.20",
+    "total_reviews": "191",
+    "image_url": "https://m.media-amazon.com/images/I/81kLF0BDSSL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:44:33.750504"
+  },
+  {
+    "title": "Amazon Echo Buds (newest model), True Wireless Bluetooth 5.2 Earbuds with Alexa, audio personalization, multipoint, 20H battery with charging case, fast charging, sweat resistant, Glacier White",
+    "price": "N/A (price not mentioned)",
+    "total_reviews": "11,305",
+    "image_url": "https://m.media-amazon.com/images/I/41rr6JeqLJL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:44:33.751916"
+  },
+  {
+    "title": "Portable Bluetooth Speaker, IPX7 Waterproof Wireless Speakers with Colorful Flashing Lights, 25W Super Bass 24H Playtime, 100ft Range, TWS Pairing for Outdoor, Home, Party, Beach, Birthday Gift",
+    "price": "$29.95",
+    "total_reviews": "10,696",
+    "image_url": "https://m.media-amazon.com/images/I/81UVhXfnT9L._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:44:40.812092"
+  },
+  {
+    "title": "Bluetooth Speaker, Portable Wireless, Powerful Stereo Small Speaker USB Rechargeable with AUX Input, IPX5 Waterproof, TWS Pairing, for Outdoor Home Party Travel, Electronics Birthday Gifts for Him Her",
+    "price": "$19.99",
+    "total_reviews": "219",
+    "image_url": "https://m.media-amazon.com/images/I/71reixdELHL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:44:40.814177"
+  },
+  {
+    "title": "KMAG Portable Bluetooth Speaker - IPX7 Waterproof Wireless Speakers with 80W Loud HiFi Stereo Sound, 20H Playtime, Dynamic Light, Deep Bass, Dual Pairing, 5.3 BT for Outdoor, Gifts",
+    "price": "$59.99",
+    "total_reviews": "909",
+    "image_url": "https://m.media-amazon.com/images/I/81vcHTYKWjL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:44:40.815384"
+  },
+  {
+    "title": "Portable Bluetooth Speaker, IPX7 Waterproof Wireless Speakers with Colorful Flashing Lights, 25W Super Bass 24H Playtime, 100ft Range, TWS Pairing for Outdoor, Home, Party, Beach, Birthday Gift",
+    "price": "$29.95",
+    "total_reviews": "10,696",
+    "image_url": "https://m.media-amazon.com/images/I/81UVhXfnT9L._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:44:40.816754"
+  },
+  {
+    "title": "W-KING Bluetooth Speaker, 90W Max Portable Loud Speakers Wireless, IPX6 Waterproof Outdoor Speaker, 50W Deep Bass/2 Powerful Subwoofer/40H/Power Bank/Dual Pairing/EQ/TF/AUX/NFC for Camping,Pool,Party",
+    "price": "N/A (price not mentioned)",
+    "total_reviews": "12,638",
+    "image_url": "https://m.media-amazon.com/images/I/71tllTwdKxL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:44:40.818241"
+  },
+  {
+    "title": "Soundcore Select 4 Go Bluetooth Shower Speaker by Anker, IP67 Waterproof/Dustproof, Portable Speaker, Wireless, 20H Playtime, Floatable, Powerful Sound, Electronics for Outdoors/Home/Office/Travel",
+    "price": "N/A (price not mentioned)",
+    "total_reviews": "1,510",
+    "image_url": "https://m.media-amazon.com/images/I/51StnCAiFlL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:44:40.821413"
+  },
+  {
+    "title": "Bluetooth Speakers, 80W(Peak) Wireless TWS Portable Bluetooth Speaker, Beat-Driven Lights, 100dB Loud Stereo Speaker with BassUp, Speakers with Subwoofer for Outdoor, Party, Camping",
+    "price": "$49.99",
+    "total_reviews": "1,418",
+    "image_url": "https://m.media-amazon.com/images/I/81oRzXfs2zL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:44:40.822936"
+  },
+  {
+    "title": "W-KING Bluetooth Speaker, 90W Max Loud Portable Speakers Bluetooth Wireless, IPX6 Waterproof Outdoor Speaker with 50W Deep Bass/2 Powerful Subwoofer/40H/Power Bank/EQ/TF/AUX/NFC for Pool/Party/Travel",
+    "price": "$73.49",
+    "total_reviews": "11,172",
+    "image_url": "https://m.media-amazon.com/images/I/71BsO7tGbgL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:44:40.824117"
+  },
+  {
+    "title": "comiso Bluetooth Speaker,5.3 Bluetooth Speakers Wireless,TWS Stereo Pairing,Built in Mic,360 HDSound,IP65 Waterproof Speaker,Support TF Card, for Home/Party/Outdoor/Beach, Gift for Men/Women-Black",
+    "price": "$11.40",
+    "total_reviews": "4,922",
+    "image_url": "https://m.media-amazon.com/images/I/71Q6XdcmJzL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:44:40.825707"
+  },
+  {
+    "title": "Bose SoundLink Max Portable Speaker, Large IP67 Waterproof Bluetooth Speaker, Up to 20 Hours of Playtime, USB-C, Built-in 3.5mm AUX Input, Black",
+    "price": "N/A (price not mentioned)",
+    "total_reviews": "960",
+    "image_url": "https://m.media-amazon.com/images/I/61t6uKPIumL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:44:40.827147"
+  },
+  {
+    "title": "ZEALOT IPX7 Waterproof Bluetooth Speaker 50W: 20H Playtime, BassUp Tech, Wireless Stereo Sound for Poolside, Camping Movie Night, RV Trips - Perfect for Outdoor Enthusiasts, Birthday Gifts",
+    "price": "$56.10",
+    "total_reviews": "113",
+    "image_url": "https://m.media-amazon.com/images/I/81YahdTzxoL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:44:40.828953"
+  },
+  {
+    "title": "IPX7 Waterproof Bluetooth Speaker, 40W(60 Peak) Portable Wireless Speakers with Subwoofer, 32H Playtime, Stereo Loud Sound, Deep Bass, Bluetooth 5.0 with Handle for Pool, Beach, Outdoor, Gifts",
+    "price": "$59.49",
+    "total_reviews": "6,611",
+    "image_url": "https://m.media-amazon.com/images/I/81Xi7TgdkTL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:44:40.830913"
+  },
+  {
+    "title": "Sony SRS-XB100 Wireless Bluetooth Portable Lightweight Super-Compact Travel Speaker, Durable IP67 Waterproof & Dustproof Shower Speaker, 16 Hour Battery, Versatile Strap, & Hands-free Calling, Black",
+    "price": "$58.00",
+    "total_reviews": "3,471",
+    "image_url": "https://m.media-amazon.com/images/I/716FMuWpp4L._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:44:40.832080"
+  },
+  {
+    "title": "FULMINARE Bluetooth Speaker with 26W HD Sound, Portable Speaker Up to 30H Playtime, AUX&TF-Card&USB Input, LED Lights, Speakers Bluetooth 5.3 Wireless for Home/Party/Outdoor, Birthday Gift (Black)",
+    "price": "$29.99",
+    "total_reviews": "267",
+    "image_url": "https://m.media-amazon.com/images/I/61YKJToxKPL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:44:40.833564"
+  },
+  {
+    "title": "Marshall Acton III Bluetooth Home Speaker, Black",
+    "price": "$279.99",
+    "total_reviews": "1,060",
+    "image_url": "https://m.media-amazon.com/images/I/815nga8GBqL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:44:40.834873"
+  },
+  {
+    "title": "TOZO PE1 Portable Bluetooth Speakers with Adjustable Carabiner, Mini Bluetooth Wireless Shower Speaker with IPX8 Waterproof, 32H Playtime Punchy Bass Audio Speaker for Home, Outdoor and Travel, Black",
+    "price": "$24.99",
+    "total_reviews": "811",
+    "image_url": "https://m.media-amazon.com/images/I/81VDrwUG+2L._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:44:40.836283"
+  },
+  {
+    "title": "JBL Clip 5 - Ultra-Portable, Waterproof & Dustproof Bluetooth Speaker, Big Pro Sound with Punchy bass, Integrated Carabiner, Up to 12 Hours of Play, Made in Part with Recycled Materials (Black)",
+    "price": "N/A (price not mentioned)",
+    "total_reviews": "2,378",
+    "image_url": "https://m.media-amazon.com/images/I/81BdIR8hyUL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:44:40.838800"
+  },
+  {
+    "title": "Sony SRS-XG300 X-Series Wireless Portable-Bluetooth Party-Speaker IP67 Waterproof and Dustproof with 25 Hour-Battery and Retractable Handle, Black- New",
+    "price": "N/A (price not mentioned)",
+    "total_reviews": "1,903",
+    "image_url": "https://m.media-amazon.com/images/I/61wLLPUu+4L._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:44:40.840521"
+  },
+  {
+    "title": "Pyle Portable Bluetooth PA Speaker System - 600W Rechargeable Outdoor Bluetooth Speaker Portable PA System w/ Dual 8\u201d Subwoofer 1\u201d Tweeter, Microphone In, Party Lights, USB, Radio, Remote - PPHP2835B",
+    "price": "N/A (price not mentioned)",
+    "total_reviews": "3,061",
+    "image_url": "https://m.media-amazon.com/images/I/81yUPDzSYsL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:44:40.841943"
+  },
+  {
+    "title": "Monster S320 Bluetooth Speaker, Portable Bluetooth Speaker, 40W True Wireless Speaker,360\u00b0 Stereo Sound Effect,IPX7 Waterproof Speaker, 32 Hour Playing Time,Suitable for Outdoor Speaker",
+    "price": "$49.99",
+    "total_reviews": "439",
+    "image_url": "https://m.media-amazon.com/images/I/81P2My80ilL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:44:40.843104"
+  },
+  {
+    "title": "Ortizan Portable Bluetooth Speaker Loud, 80W Peak, Bass Up, 20H Playtime, IPX7 Waterproof, RGB Lights, Wireless Stereo Pairing, BT5.3, USB-C, Subwoofer Outdoor Speaker for Camping, Beach, Backyard",
+    "price": "$59.99",
+    "total_reviews": "187",
+    "image_url": "https://m.media-amazon.com/images/I/81MC+OooQsL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:44:40.844958"
+  },
+  {
+    "title": "Portable Bluetooth Speaker, 30W Peak, 12H Playtime, IPX5 Waterproof with Light, TWS Pairing, Wireless Speaker for Home/Party/Outdoor/Beach, Birthday Gift (Black)",
+    "price": "$29.99",
+    "total_reviews": "206",
+    "image_url": "https://m.media-amazon.com/images/I/81Hf+oGHFsL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:44:40.846986"
+  },
+  {
+    "title": "Bluetooth Speaker, 40W (60W Peak) Portable Wireless Speaker with Colorful Lights, Double Subwoofer Heavy Bass, FM Radio, MP3 Player, Bluetooth 5.0, Loud Stereo speakers for Home Outdoor Party Camping",
+    "price": "$35.98",
+    "total_reviews": "4,380",
+    "image_url": "https://m.media-amazon.com/images/I/71thuFyPy3L._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:44:47.786905"
+  },
+  {
+    "title": "Karaoke Machine with Two Wireless Microphones,Portable Bluetooth Speaker for 100W Stereo Sound, IPX7 Waterproof Speaker with Remote Control Supports for USB,AUX,TWS,40H Playtime,BT 5.3,Rhythm Light",
+    "price": "$79.00",
+    "total_reviews": "32",
+    "image_url": "https://m.media-amazon.com/images/I/71Q2bHo5NXL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:44:47.788383"
+  },
+  {
+    "title": "Vanzon V40 Bluetooth Speakers, Portable Wireless Speaker V5.0 with 24W Loud Stereo Sound, 24H Playtime, TWS & IPX7 Waterproof, Suitable for Travel, Home and Outdoors",
+    "price": "$35.99",
+    "total_reviews": "13,122",
+    "image_url": "https://m.media-amazon.com/images/I/71lzhEVzRML._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:44:47.789523"
+  },
+  {
+    "title": "JBL Flip 6 - Portable Bluetooth Speaker, powerful sound and deep bass, IPX7 waterproof, 12 hours of playtime, JBL PartyBoost for multiple speaker pairing for home, outdoor and travel (Blue)",
+    "price": "N/A (price not mentioned)",
+    "total_reviews": "19,672",
+    "image_url": "https://m.media-amazon.com/images/I/614f5R8ReXL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:44:47.790881"
+  },
+  {
+    "title": "Portable Bluetooth Speaker with Lights, Powerful Crystal Clear Sound, IPX5 Waterproof, All Day Playtime, AUX&TF-Card Input, Bluetooth 5.3, TWS Paring, Small Wireless Speaker for Outdoor, Gift Ideas",
+    "price": "$21.99",
+    "total_reviews": "2,480",
+    "image_url": "https://m.media-amazon.com/images/I/81p9DPknjLL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:44:47.792235"
+  },
+  {
+    "title": "JBL Xtreme 4 - Portable Bluetooth Speaker, Powerful Sound and Deep Bass, IP67 Waterproof, 24 Hours of Playtime, Powerbank, PartyBoost for Multi-Speaker Pairing (Black)",
+    "price": "N/A (price not mentioned)",
+    "total_reviews": "587",
+    "image_url": "https://m.media-amazon.com/images/I/71ycGDj9WQL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:44:47.794397"
+  },
+  {
+    "title": "JBL PartyBox 110 - Portable Party Speaker with Built-in Lights, Powerful Sound and deep bass, Black",
+    "price": "N/A (price not mentioned)",
+    "total_reviews": "2,655",
+    "image_url": "https://m.media-amazon.com/images/I/810nGMz0r8L._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:44:47.795740"
+  },
+  {
+    "title": "JBL Go 3 Eco - Portable Mini Bluetooth Speaker, big audio and punchy bass, IP67 waterproof and dustproof, 5 hours of playtime, Made in part with recycled materials (Eco Blue)",
+    "price": "$39.95",
+    "total_reviews": "46,681",
+    "image_url": "https://m.media-amazon.com/images/I/71PhFLta18L._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:44:47.796867"
+  },
+  {
+    "title": "Wireless Portable Speaker,IPX7 Waterproof Bluetooth Speaker, 25W Loud Stereo Sound, Bassboom Technology, TWS Pairing, Built-in Mic, 16H Playtime with Lights for Home Outdoor - Black",
+    "price": "$39.99",
+    "total_reviews": "7,625",
+    "image_url": "https://m.media-amazon.com/images/I/718yxonHN8L._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:44:47.797989"
+  },
+  {
+    "title": "BUGANI Bluetooth Speaker, 80W Powerful Portable Wireless Speaker IPX7 Waterproof Speaker, Outdoor Loud Speaker with Handle 24H Playtime, Support Microphone AUX USB Suitable for Party, Pool, Black",
+    "price": "$139.99",
+    "total_reviews": "4,824",
+    "image_url": "https://m.media-amazon.com/images/I/8182xakVOCL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:44:47.799116"
+  },
+  {
+    "title": "Portable Big Bluetooth Speakers with Light, Wireless with Subwoofer, FM Radio, LED Lights, EQ, Booming Bass, Bluetooth 4.2 Stereo Loud Outdoor/Indoor Retro , for Home, Camping, Travel",
+    "price": "$39.98",
+    "total_reviews": "3,679",
+    "image_url": "https://m.media-amazon.com/images/I/71347dxhUIL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:44:47.800624"
+  },
+  {
+    "title": "LENRUE Bluetooth Speaker, Wireless Portable Speaker with Loud Stereo Sound, Rich Bass, 12-Hour Playtime, Built-in Mic. Perfect for iPhone, Samsung and More",
+    "price": "$15.99",
+    "total_reviews": "10,057",
+    "image_url": "https://m.media-amazon.com/images/I/81eBm834zEL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:44:47.802146"
+  },
+  {
+    "title": "W-KING Portable Speakers Bluetooth Wireless, 120W Max Loudest Bluetooth Speaker, IPX6 Waterproof Outdoor Speaker with 70W Deep Bass/2*Subwoofer/DSP/EQ/42H/LED/MAC-in/Power Bank, Large Party Boombox",
+    "price": "$109.99",
+    "total_reviews": "4,997",
+    "image_url": "https://m.media-amazon.com/images/I/71ooBl2iQuL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:44:47.803351"
+  },
+  {
+    "title": "JBL Pulse 5 - Portable Bluetooth Speaker with Dazzling Lights Original Pro Sound, Black",
+    "price": "N/A (price not mentioned)",
+    "total_reviews": "499",
+    "image_url": "https://m.media-amazon.com/images/I/51qaWNEWKXL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:44:47.804677"
+  },
+  {
+    "title": "Air Audio The Worlds First Pull-Apart Wireless Bluetooth Speaker Portable Surround Sound and Multi-Room Use, Black",
+    "price": "$212.58",
+    "total_reviews": "568",
+    "image_url": "https://m.media-amazon.com/images/I/71BBff6w2WL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:44:47.805811"
+  },
+  {
+    "title": "Sonos Roam 2 - White - Portable Waterproof Bluetooth Speaker",
+    "price": "$174.99",
+    "total_reviews": "653",
+    "image_url": "https://m.media-amazon.com/images/I/71bWYTTIe1L._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:44:47.806930"
+  },
+  {
+    "title": "Bose SoundLink Micro Bluetooth Speaker: Small Portable Waterproof Speaker with Microphone, Black",
+    "price": "N/A (price not mentioned)",
+    "total_reviews": "33,476",
+    "image_url": "https://m.media-amazon.com/images/I/51PpXH+7qiL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:44:47.808242"
+  },
+  {
+    "title": "The Klipsch Nashville Portable Bluetooth Speaker with a 2.25\" full range drivers for 360 degree audio, IP67 dust and waterproof rating, 24 hours of playtime for a premium live concert experience",
+    "price": "$89.00",
+    "total_reviews": "337",
+    "image_url": "https://m.media-amazon.com/images/I/612O3SF7KgL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:44:47.809289"
+  },
+  {
+    "title": "Bluetooth Speaker Wireless,IP67 Waterproof & Dustproof Portable Speaker with Lights,15W Loud Stereo Sound, 2500mAh Battery All Day Playtime, TWS Pairing, BT5.3, Home/Party/Outdoor/Beach (Black)",
+    "price": "$19.98",
+    "total_reviews": "1,583",
+    "image_url": "https://m.media-amazon.com/images/I/81kWrb3DioL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:44:47.810334"
+  },
+  {
+    "title": "Speakers Bluetooth Wireless: 80W(Peak) Loud Speaker with Bass, 20H Playtime, IPX6 Waterproof, Large Jobsite Speakers for Work, Outdoor, Workshop, Garage, Portable Speaker with TWS (Black)",
+    "price": "$99.99",
+    "total_reviews": "356",
+    "image_url": "https://m.media-amazon.com/images/I/81s8Li6reBL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:44:47.811415"
+  },
+  {
+    "title": "Small Speaker, Bluetooth Speaker with 360\u00b0HD Stereo Sound and Robust Bass, Mini Speakers with Hands-Free Call, IP67 Waterproof, Portable Speakers for Shower, Room, Car, Trip, Ideal Gift for Men, Women",
+    "price": "$12.91",
+    "total_reviews": "2,781",
+    "image_url": "https://m.media-amazon.com/images/I/7185eYOWKCL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:44:47.812851"
+  },
+  {
+    "title": "LENRUE Bluetooth Speaker,Wireless Portable Speakers with TWS, 12H Playtime, Clear Sound for Home,Travel and Outdoor,Handfree Calls Compatible with for iPhone, Samsung Android and More",
+    "price": "$13.99",
+    "total_reviews": "3,673",
+    "image_url": "https://m.media-amazon.com/images/I/71oQrny7x6L._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:44:47.814271"
+  },
+  {
+    "title": "Bluetooth Speaker Wireless,IP67 Waterproof & Dustproof Portable Speaker with Lights,15W Loud Stereo Sound, 2500mAh Battery All Day Playtime, TWS Pairing, BT5.3, Home/Party/Outdoor/Beach (Black)",
+    "price": "$19.98",
+    "total_reviews": "1,583",
+    "image_url": "https://m.media-amazon.com/images/I/81kWrb3DioL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:44:54.481831"
+  },
+  {
+    "title": "Philips X5206 bluetooth party speaker, portable with wheels, exciting light show, karaoke machine with microphone and Guitar Input, powerful bass & subwoofer, long playtime, perfect for outdoor events",
+    "price": "$199.00",
+    "total_reviews": "512",
+    "image_url": "https://m.media-amazon.com/images/I/71fBovHjrFL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:44:54.483261"
+  },
+  {
+    "title": "Speakers Bluetooth Wireless: 80W(Peak) Loud Speaker with Bass, 20H Playtime, IPX6 Waterproof, Large Jobsite Speakers for Work, Outdoor, Workshop, Garage, Portable Speaker with TWS (Black)",
+    "price": "$99.99",
+    "total_reviews": "356",
+    "image_url": "https://m.media-amazon.com/images/I/81s8Li6reBL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:44:54.484314"
+  },
+  {
+    "title": "NOTABRICK Bluetooth Speakers, 15W Portable Speakers Bluetooth Wireless V5.0 with Stereo Sound, Active Extra Bass, IPX6 Waterproof Shower Speaker, Double Pairing, for Party, Home Theater, Game Theater",
+    "price": "$23.99",
+    "total_reviews": "2,317",
+    "image_url": "https://m.media-amazon.com/images/I/81oVN-W3KjL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:44:54.485373"
+  },
+  {
+    "title": "DEWALT 20V MAX Bluetooth Speaker, 100 ft Range, Durable for Jobsites, Phone Holder Included, Lasts 8-10 Hours with Single Charge (DCR010)",
+    "price": "$88.88",
+    "total_reviews": "9,851",
+    "image_url": "https://m.media-amazon.com/images/I/61sTThBQPaL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:44:54.486417"
+  },
+  {
+    "title": "W-KING 180W Max Party Loudest Bluetooth Speaker Wireless Boom Box, Big Large Outdoor Portable Speaker 4 Drivers with 2*4.04'' Subwoofer, 80W HD Huge 105dB Pulse Natur Deep Bass, IPX5/24H/EQ/USB/TF/AUX",
+    "price": "$123.49",
+    "total_reviews": "10,346",
+    "image_url": "https://m.media-amazon.com/images/I/7107S6AWAuL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:44:54.487463"
+  },
+  {
+    "title": "Klipsch The Detroit Portable Bluetooth Speaker with Dual 1\" tweeters and 3\" woofers, IP67 dust and Waterproof Rating, 20 Hours of Playtime for a Premium Live Concert Experience",
+    "price": "$210.44",
+    "total_reviews": "137",
+    "image_url": "https://m.media-amazon.com/images/I/61XgzN162UL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:44:54.488508"
+  },
+  {
+    "title": "Raymate Bluetooth Speakers, 20W IPX7 Waterproof Speaker Wireless Bluetooth-V5.0, HiFi Stereo Sound, 1000mins Playtime, Portable Speaker for Home, Outdoor, Party",
+    "price": "$21.99",
+    "total_reviews": "1,629",
+    "image_url": "https://m.media-amazon.com/images/I/71G0o6lUMIL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:44:54.489566"
+  },
+  {
+    "title": "W-KING Portable Loud Speakers Bluetooth Wireless, 120W Max IPX6 Waterproof Outdoor Big Large Bluetooth Speaker Party Boombox 2 Subwoofer, Triple Passive Radiators-70W Deep Bass/42H/Power Bank/TF/AUX",
+    "price": "N/A (price not mentioned)",
+    "total_reviews": "2,550",
+    "image_url": "https://m.media-amazon.com/images/I/71Wv6PT0bbL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:44:54.490802"
+  },
+  {
+    "title": "Bluetooth Speakers, 60W Portable Wireless Loud Outdoor Home Party Bluetooth Speaker with Subwoofer, FM Radio, LED Colorful Lights, Microphone, Remote and Big Powerful Stereo Deep Bass Sound Boombox",
+    "price": "$69.98",
+    "total_reviews": "685",
+    "image_url": "https://m.media-amazon.com/images/I/71PvIY11X2L._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:44:54.491850"
+  },
+  {
+    "title": "Bluetooth Speaker, 80W Peak Wireless TWS Portable Outdoor Party Speakers with Subwoofer, Deep Bass, LED Colorful Lights,Loud Stereo Sound Boombox for Home, Camping,Travel (Q55-N)",
+    "price": "$49.49",
+    "total_reviews": "6",
+    "image_url": "https://m.media-amazon.com/images/I/612VWI312ZL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:44:54.493235"
+  },
+  {
+    "title": "Speakers Bluetooth Wireless: 80W(Peak) Loud Speaker with Bass, 20H Playtime, IPX6 Waterproof, Large Jobsite Speakers for Work, Outdoor, Workshop, Garage, Portable Speaker with TWS (Blue)",
+    "price": "$79.99",
+    "total_reviews": "356",
+    "image_url": "https://m.media-amazon.com/images/I/81wjnWmTvjL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:44:54.494707"
+  },
+  {
+    "title": "Philips X5206 bluetooth party speaker, portable with wheels, exciting light show, karaoke machine with microphone and Guitar Input, powerful bass & subwoofer, long playtime, perfect for outdoor events",
+    "price": "$199.00",
+    "total_reviews": "512",
+    "image_url": "https://m.media-amazon.com/images/I/71fBovHjrFL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:44:54.495850"
+  },
+  {
+    "title": "DOSS SoundBox Touch Wireless Bluetooth Speaker with 12W HD Sound and Bass, IPX5 Waterproof, 20H Playtime, Handsfree, for Office, Home, Outdoor, Travel-Upgraded",
+    "price": "$34.99",
+    "total_reviews": "80,850",
+    "image_url": "https://m.media-amazon.com/images/I/71QIESVX4jL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:44:54.496975"
+  },
+  {
+    "title": "Marshall Stanmore III Bluetooth Wireless Speaker,Black",
+    "price": "$379.99",
+    "total_reviews": "412",
+    "image_url": "https://m.media-amazon.com/images/I/61fD3NJRtYL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:44:54.498108"
+  },
+  {
+    "title": "Marshall Middleton Portable Bluetooth Speaker, Black and Brass",
+    "price": "$199.99",
+    "total_reviews": "1,105",
+    "image_url": "https://m.media-amazon.com/images/I/71tgRKPg-EL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:44:54.499179"
+  },
+  {
+    "title": "Edifier R1280DBs Active Bluetooth Bookshelf Speakers - Optical Input - 2.0 Wireless Studio Monitor Speaker - 42W RMS with Subwoofer Line Out - Wood Grain",
+    "price": "$159.99",
+    "total_reviews": "3,833",
+    "image_url": "https://m.media-amazon.com/images/I/71zmXSlm0hL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:44:54.500270"
+  },
+  {
+    "title": "Inwa Outdoor Bluetooth Speakers, IPX5 Waterproof 400W Wall Mount Speaker, Powerful Indoor/Outdoor Sound System, Wireless Sync Up to 100 Speakers, Suitable for Patio/Porch/Gazebo/Garage(MZ-621, Pair)",
+    "price": "$129.99",
+    "total_reviews": "210",
+    "image_url": "https://m.media-amazon.com/images/I/81S7Sy6aPVL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:44:54.501314"
+  },
+  {
+    "title": "Pyle Bluetooth Active+Passive Speaker System, 6.25\" Woofer, Indoor/Outdoor Water Resistant ABS Case with Wall Mount, Marine Grade IP44 Rating, Bass Boost, (Pair, Black)",
+    "price": "$114.99",
+    "total_reviews": "2,179",
+    "image_url": "https://m.media-amazon.com/images/I/615ivS-V28L._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:44:54.502361"
+  },
+  {
+    "title": "Bluetooth Speaker, Portable Wireless, HD Stereo Sound with Cool LED Lights, TWS Surround Dual Pairing, BT 5.3/AUX, for Outdoor Camping Party Home, Electronics Gadgets Gifts for Him Her Birthday",
+    "price": "$49.99",
+    "total_reviews": "158",
+    "image_url": "https://m.media-amazon.com/images/I/81Xljb7B0-L._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:44:54.503403"
+  },
+  {
+    "title": "Bluetooth Speaker with HD Sound, Portable Wireless, IPX5 Waterproof, Up to 20H Playtime, TWS Pairing, BT5.3, for Home/Party/Outdoor/Beach, Electronic Gadgets, Birthday Gift (Black)",
+    "price": "$21.99",
+    "total_reviews": "23,430",
+    "image_url": "https://m.media-amazon.com/images/I/81l7mB5LhsL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:44:54.504863"
+  },
+  {
+    "title": "Wireless Portable Speaker,IPX7 Waterproof Bluetooth Speaker, 25W Loud Stereo Sound, Bassboom Technology, TWS Pairing, Built-in Mic, 16H Playtime with Lights for Home Outdoor - Black",
+    "price": "$39.99",
+    "total_reviews": "7,625",
+    "image_url": "https://m.media-amazon.com/images/I/718yxonHN8L._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:44:54.506270"
+  },
+  {
+    "title": "comiso Bluetooth Speaker,5.3 Bluetooth Speakers Wireless,TWS Stereo Pairing,Built in Mic,360 HDSound,IP65 Waterproof Speaker,Support TF Card, for Home/Party/Outdoor/Beach, Gift for Men/Women-Black",
+    "price": "$11.40",
+    "total_reviews": "4,922",
+    "image_url": "https://m.media-amazon.com/images/I/71Q6XdcmJzL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:00.851421"
+  },
+  {
+    "title": "The Klipsch Nashville Portable Bluetooth Speaker with a 2.25\" full range drivers for 360 degree audio, IP67 dust and waterproof rating, 24 hours of playtime for a premium live concert experience",
+    "price": "$89.00",
+    "total_reviews": "337",
+    "image_url": "https://m.media-amazon.com/images/I/612O3SF7KgL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:00.852972"
+  },
+  {
+    "title": "Bluetooth Speakers, 60W(80W Peak) Portable Loud Wireless Stereo Speaker with Rich Bass, Bluetooth 5.0, FM Radio, Colorful Light, TWS Pairing, EQ, 10000mAh Battery, Outdoor Speaker for Home Party Gift",
+    "price": "$59.19",
+    "total_reviews": "1,900",
+    "image_url": "https://m.media-amazon.com/images/I/71Bi2xAq7YL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:00.854258"
+  },
+  {
+    "title": "Bluetooth Speaker,MusiBaby Speakers Bluetooth Wireless,IPX5 Waterproof Outdoor Speaker with Bass,24H Long Playtime,Loud and Portable for Travel, Party, Beach, Camping,Gift Ideas(Black)",
+    "price": "$24.08",
+    "total_reviews": "51,046",
+    "image_url": "https://m.media-amazon.com/images/I/61TKQK8HyoL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:00.855406"
+  },
+  {
+    "title": "OontZ Angle 3 Portable Bluetooth 5.4 Speaker | 12W Sound, 24-Hr Battery, 100Ft Wireless Range, IPX5 Water-Resistant, Budget-Friendly for Travel, Outdoor & Home (Black)",
+    "price": "N/A (price not mentioned)",
+    "total_reviews": "182,289",
+    "image_url": "https://m.media-amazon.com/images/I/71kwRQ9gNPL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:00.856745"
+  },
+  {
+    "title": "OontZ Ultra Dual Portable Bluetooth Speaker 5.0 2-Pack - IPX7 Waterproof, 14W Enhanced Sound, 20-Hr Battery, 100ft Range, Deep Bass and Clear Audio, Durable Shower Speakers for Pool or Beach (Black)",
+    "price": "$79.95",
+    "total_reviews": "4,721",
+    "image_url": "https://m.media-amazon.com/images/I/61vej9tMbML._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:00.857876"
+  },
+  {
+    "title": "AIWA Exos Home Speaker, Premium 30W RMS Sound System with CD Player, Bluetooth Connectivity, FM Radio, Optical Digital Input, Dual 1\u201d Tweeters + Dual 2\u201d Bass Units, IR Remote Control",
+    "price": "$137.02",
+    "total_reviews": "659",
+    "image_url": "https://m.media-amazon.com/images/I/71hgNEg-n-L._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:00.859224"
+  },
+  {
+    "title": "noxgear 39g Wearable Waterproof Bluetooth Speaker - Magnetic Clip-On Wireless Portable Speakers - Up to 15 Hours Battery Life - Clip Speaker with Microphone - Large Tactile Control Buttons",
+    "price": "$69.95",
+    "total_reviews": "3,567",
+    "image_url": "https://m.media-amazon.com/images/I/716Eb-lpuLL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:00.860352"
+  },
+  {
+    "title": "Monster Bluetooth Speaker, IPX8 Shower Speaker Waterproof, Bluetooth 5.4 with Loud HD Sound and Robust Bass, Extra Long Playtime Punchy, for Home, Beaches Portable Wireless Outdoor Speakers",
+    "price": "$26.03",
+    "total_reviews": "270",
+    "image_url": "https://m.media-amazon.com/images/I/814dHfCpzTL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:00.861480"
+  },
+  {
+    "title": "Bose SoundLink Flex Bluetooth Speaker, Portable Speaker with Microphone, Wireless Waterproof Speaker for Travel, Outdoor and Pool Use, Stone Blue",
+    "price": "N/A (price not mentioned)",
+    "total_reviews": "37,950",
+    "image_url": "https://m.media-amazon.com/images/I/71D+D197S0L._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:00.862804"
+  },
+  {
+    "title": "ZEALOT Bluetooth Speaker, Speakers Bluetooth Wireless Loud,75W Waterproof Portable Speaker with 14400MAh Battery,20H Play,EQ,Deep Bass,Stereo,Outdoor Speakers for Party,Beach,Camping,Blue",
+    "price": "$75.99",
+    "total_reviews": "3,461",
+    "image_url": "https://m.media-amazon.com/images/I/81ipT5DoZYL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:00.864312"
+  },
+  {
+    "title": "Pyle 400W Portable Bluetooth PA Loudspeaker - 8\u201d Subwoofer System, 4 Ohm/55-20kHz, USB/MP3/FM Radio/ \u00bc Mic Inputs, Multi-Color LED Lights, Built-in Rechargeable Battery w/ Remote Control -PPHP844B",
+    "price": "N/A (price not mentioned)",
+    "total_reviews": "5,009",
+    "image_url": "https://m.media-amazon.com/images/I/81+3zZSZAyL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:00.865879"
+  },
+  {
+    "title": "Sony SRSXB13/B Extra Bass Portable Waterproof Speaker with Bluetooth, USB Type-C, 16 Hours Battery Life",
+    "price": "N/A (price not mentioned)",
+    "total_reviews": "10,858",
+    "image_url": "https://m.media-amazon.com/images/I/614pmXRPMFL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:00.867052"
+  },
+  {
+    "title": "Monster S310 Upgraded Bluetooth Speaker, Portable Bluetooth Speaker, 30W True Wireless Stereo Pairing Deliver Dynamic Sound, IPX6 Waterproof, Bluetooth 5.2 Built-in Mic, 24H,for Family Outdoor Black",
+    "price": "$39.99",
+    "total_reviews": "728",
+    "image_url": "https://m.media-amazon.com/images/I/81HY5lpxUnL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:00.868173"
+  },
+  {
+    "title": "Marshall Emberton II Portable Bluetooth Speaker, Black & Brass",
+    "price": "N/A (price not mentioned)",
+    "total_reviews": "4,767",
+    "image_url": "https://m.media-amazon.com/images/I/81fkcBjZndL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:00.869496"
+  },
+  {
+    "title": "Small Speaker, Bluetooth Speaker with 360\u00b0HD Stereo Sound and Robust Bass, Mini Speakers with Hands-Free Call, IP67 Waterproof, Portable Speakers for Shower, Room, Car, Trip, Ideal Gift for Men, Women",
+    "price": "$12.91",
+    "total_reviews": "2,781",
+    "image_url": "https://m.media-amazon.com/images/I/7185eYOWKCL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:00.870619"
+  },
+  {
+    "title": "Logitech Z207 2.0 Stereo Computer Speakers with Bluetooth",
+    "price": "N/A (price not mentioned)",
+    "total_reviews": "7,064",
+    "image_url": "https://m.media-amazon.com/images/I/71K3m6QVL-L._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:00.872773"
+  },
+  {
+    "title": "Ultimate Ears WONDERBOOM 4 Portable Waterproof Bluetooth Speaker with Big Bass and 360-Degree Sound, Dustproof Floating Speaker with 131ft (40m) Range - Gray",
+    "price": "$78.50",
+    "total_reviews": "810",
+    "image_url": "https://m.media-amazon.com/images/I/71AEfGezOWL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:00.873893"
+  },
+  {
+    "title": "Vanten 2 Packs Outdoor Bluetooth Speakers, Bluetooth 5.0 Led Flame Speaker, IPX5 Waterproof Flame Torch Atmosphere Speaker, Flame Lamp, Gifts for Men Women, Decorations for Party Garden Patio",
+    "price": "$59.99",
+    "total_reviews": "2,092",
+    "image_url": "https://m.media-amazon.com/images/I/71QZBkNcppL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:00.875226"
+  },
+  {
+    "title": "Monster S150 Bluetooth Speaker, Strong Bluetooth 5.4, IPX7 Waterproof Wireless Speaker, Support Sulti-Channel Connection, HD Hands-Free Calling, Compact Design Bluetooth Speakers",
+    "price": "$29.99",
+    "total_reviews": "18",
+    "image_url": "https://m.media-amazon.com/images/I/81ea+bIvg6L._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:00.876353"
+  },
+  {
+    "title": "MIATONE Boombox Outdoor Portable Bluetooth Speaker Waterproof Wireless Speakers Gifts for Women Mothers Mom Wife Her - Pink",
+    "price": "$39.99",
+    "total_reviews": "23,585",
+    "image_url": "https://m.media-amazon.com/images/I/71jnC5VAtmL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:00.877866"
+  },
+  {
+    "title": "MIATONE Bluetooth Speakers 36W Portable Speaker with Stereo Sound Bass, Bluetooth 5.3 Wireless USB Type C Outdoor, 5000mAh 24H Playtime IPX7 Waterproof, Color Lights Speaker (Black)",
+    "price": "$39.99",
+    "total_reviews": "863",
+    "image_url": "https://m.media-amazon.com/images/I/71GA-xkPdwL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:00.879280"
+  },
+  {
+    "title": "ROSON Computer Speaker, Compact Size Speaker with Headphone Jack, Enhanced Bass and Volume Control, Stereo 2.0 USB Powered 3.5mm Aux Multimedia Speakers for Laptop/Desktop/Tablets/Phone",
+    "price": "$29.99",
+    "total_reviews": "413",
+    "image_url": "https://m.media-amazon.com/images/I/61IJpSYcD6L._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:08.040617"
+  },
+  {
+    "title": "SOULION R60 Bluetooth Computer Speakers, USB Plug-N-Play PC Speakers with LED Dynamic Light, Surround Sound Soundbar Speaker with Rotary Switch for Desktop Laptop (USB-C to USB Adapter Included)",
+    "price": "$24.99",
+    "total_reviews": "212",
+    "image_url": "https://m.media-amazon.com/images/I/71fJagWPNlL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:08.042163"
+  },
+  {
+    "title": "DOSS SoundBox Pro Bluetooth Speaker with 20W Stereo Sound, Active Extra Bass, 20H Playtime, IPX6 Waterproof, TWS Pairing, Multi-Colors Lights, Portable for Hiking, Camping, Beach, Outdoor, Party-Black",
+    "price": "$39.98",
+    "total_reviews": "24,723",
+    "image_url": "https://m.media-amazon.com/images/I/81n7KAYovTL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:08.043266"
+  },
+  {
+    "title": "Upgraded Outdoor Speakers Gift for Men Bluetooth Speaker with lights Multi-Sync up to 100 Speakers Auto-Pairing HD Stereo Sound Cool Tech Gadgets for Him IPX5 Waterproof for Outside|Patio|Porch",
+    "price": "$79.99",
+    "total_reviews": "542",
+    "image_url": "https://m.media-amazon.com/images/I/81mkyyGVDuL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:08.044316"
+  },
+  {
+    "title": "TREBLAB HD77 Bluetooth Speaker - Powerful 360\u00b0 Sound with Impactful Bass, 30W Portable Wireless Audio, 20H Battery, IPX7 Waterproof, TWS Stereo, Shockproof Design for Outdoor, Beach, Pool, Jobsite",
+    "price": "N/A (price not mentioned)",
+    "total_reviews": "15,312",
+    "image_url": "https://m.media-amazon.com/images/I/81EV-DeE0FL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:08.045815"
+  },
+  {
+    "title": "Marshall Stockwell II Portable Bluetooth Speaker, Black and Brass",
+    "price": "$145.99",
+    "total_reviews": "2,515",
+    "image_url": "https://m.media-amazon.com/images/I/71O1lW4PXQL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:08.046867"
+  },
+  {
+    "title": "60W (80W Peak) Portable Bluetooth Speaker with Double Subwoofer Heavy Bass, Bluetooth 5.0 Wireless 100ft Outdoor Speaker, Support FM Radio, LED Colorful Lights, Stereo Sound, for Home, Party, Travel",
+    "price": "$48.99",
+    "total_reviews": "9,139",
+    "image_url": "https://m.media-amazon.com/images/I/716Ap-eCdtL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:08.047929"
+  },
+  {
+    "title": "Marshall Emberton III Portable Bluetooth Speaker - Cream",
+    "price": "$169.99",
+    "total_reviews": "157",
+    "image_url": "https://m.media-amazon.com/images/I/81gRxBMDtdL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:08.048978"
+  },
+  {
+    "title": "BUGANI Shock Bluetooth Speaker, Portable Bluetooth 5.3, Waterproof, 60W Super Power, Outdoor Speaker, Black(New Model)",
+    "price": "$59.99",
+    "total_reviews": "1,269",
+    "image_url": "https://m.media-amazon.com/images/I/81RkJbU8YYL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:08.050022"
+  },
+  {
+    "title": "Jabra Speak 510 MS Wireless Bluetooth Speakerphone \u2013 Outstanding Sound Quality, Portable Conference Speaker for Holding Meetings Anywhere - Certified for Microsoft Teams",
+    "price": "$82.50",
+    "total_reviews": "8,013",
+    "image_url": "https://m.media-amazon.com/images/I/817+l+xkusL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:08.051423"
+  },
+  {
+    "title": "INSMY Small Bluetooth Speaker, Waterproof Mini Portable Wireless Speaker, Punchy Bass Rich Audio Stereo Pairing, Handheld Pocket Size,Built in Mic for Hiking Biking Gift Laptop Tablet (Gold)",
+    "price": "$20.99",
+    "total_reviews": "2,654",
+    "image_url": "https://m.media-amazon.com/images/I/618Qpwes0DL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:08.052845"
+  },
+  {
+    "title": "Passau Portable Bluetooth Speakers Loud 40W Peak Stereo Sound, Passive Radiators-Deep Bass, All Day Playtime, Adjustable Strap, BT5.3, IPX5 Wireless Speaker RGB Lights for Indoor Outdoor",
+    "price": "$49.99",
+    "total_reviews": "486",
+    "image_url": "https://m.media-amazon.com/images/I/91EWQlkVx3L._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:08.054266"
+  },
+  {
+    "title": "JBL PartyBox Club 120 - Portable Party Speaker with Foldable Handle, Powerful JBL Pro Sound, Futuristic lightshow, Up to 12 Hours of Play time, Splash Proof, Dual Mic & Guitar Inputs (Black)",
+    "price": "$299.00",
+    "total_reviews": "501",
+    "image_url": "https://m.media-amazon.com/images/I/71WbvaRp9PL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:08.055315"
+  },
+  {
+    "title": "Portable Bluetooth Speaker with Stereo Sound, IPX5 Waterproof Wireless Speakers, 6 RGB LED Modes, Up to 20H Playtime, BT5.3, TWS Pairing, for Home/Bathroom/Party/Outdoor/Beach, Gift Ideals",
+    "price": "$20.99",
+    "total_reviews": "264",
+    "image_url": "https://m.media-amazon.com/images/I/71l7SlmYKSL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:08.056398"
+  },
+  {
+    "title": "LENRUE Bluetooth Speaker, Wireless Portable Speaker with Loud Stereo Sound, Rich Bass, 12-Hour Playtime, Built-in Mic. Perfect for iPhone, Samsung and More",
+    "price": "$15.99",
+    "total_reviews": "10,057",
+    "image_url": "https://m.media-amazon.com/images/I/81eBm834zEL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:08.057460"
+  },
+  {
+    "title": "Tribit XSound Go Bluetooth Speaker with 16W Loud Sound & Deeper Bass, 24H Playtime, IPX7 Waterproof, Bluetooth 5.3 TWS Pairing Portable Wireless Speaker for Home, Outdoor (2024 Upgraded)",
+    "price": "N/A (price not mentioned)",
+    "total_reviews": "35,127",
+    "image_url": "https://m.media-amazon.com/images/I/61hHuYV3vML._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:08.060523"
+  },
+  {
+    "title": "SW208 3\" Active Bluetooth 5.0 Bookshelf Speakers \u2013 60W Carbon Fiber Speaker Unit - Built-in 24bit DAC Dynamic 3D Surround Sound 2.0 Computer PC Monitor Gaming (Pair, White)",
+    "price": "$69.99",
+    "total_reviews": "6,510",
+    "image_url": "https://m.media-amazon.com/images/I/81PdWvZcOBL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:08.061935"
+  },
+  {
+    "title": "JBL Clip 4 - Portable Mini Bluetooth Speaker, big audio and punchy bass, integrated carabiner, IP67 waterproof and dustproof, 10 hours of playtime, speaker for home, outdoor and travel (Blue)",
+    "price": "N/A (price not mentioned)",
+    "total_reviews": "32,600",
+    "image_url": "https://m.media-amazon.com/images/I/71m-znMJAuL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:08.063171"
+  },
+  {
+    "title": "Portable Bluetooth Party Speaker: 160W Peak Powerful Loud Sound Deep Bass Wireless Boombox Large Subwoofer 15 Hours Battery Life Fast Charging with Led Light Show for Outdoor Camping Backyard",
+    "price": "$139.99",
+    "total_reviews": "635",
+    "image_url": "https://m.media-amazon.com/images/I/71TB0jwZtAL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:08.064231"
+  },
+  {
+    "title": "Vanzon V40 Portable Wireless Speaker, IPX7 Waterproof Bluetooth Speaker with 24H Playtime, 24W Loud Stereo Sound, TWS Pairing and RGB Lights",
+    "price": "$159.99",
+    "total_reviews": "326",
+    "image_url": "https://m.media-amazon.com/images/I/71ex8-oGYLL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:08.065264"
+  },
+  {
+    "title": "Portable Bluetooth Speaker with Lights, Powerful Crystal Clear Sound, IPX5 Waterproof, All Day Playtime, AUX&TF-Card Input, Bluetooth 5.3, TWS Paring, Small Wireless Speaker for Outdoor, Gift Ideas",
+    "price": "$21.99",
+    "total_reviews": "2,480",
+    "image_url": "https://m.media-amazon.com/images/I/81p9DPknjLL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:08.066790"
+  },
+  {
+    "title": "Portable Bluetooth Speaker,IP65 Waterproof Wireless Speaker,Wireless Outdoor Bluetooth Speakers,Bluetooth 5.0,Built in micSupport Micro SD/TF Card",
+    "price": "$16.99",
+    "total_reviews": "3,039",
+    "image_url": "https://m.media-amazon.com/images/I/71-qR6q5-GS._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:08.068289"
+  },
+  {
+    "title": "4 Inch Outdoor Waterproof Wall Mount Speakers - Bluetooth 5.3, for Patio, Pool, Garden,Waterproof\uff0c Weatherproof Design, IIndoor and Outdoor use (Pair Black)",
+    "price": "$69.89",
+    "total_reviews": "5",
+    "image_url": "https://m.media-amazon.com/images/I/71JpNKyFgIL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:15.374722"
+  },
+  {
+    "title": "60W (80W Peak) Portable Bluetooth Speaker with Double Subwoofer Heavy Bass, Bluetooth 5.0 Wireless 100ft Outdoor Speaker, Support FM Radio, LED Colorful Lights, Stereo Sound, for Home, Party, Travel",
+    "price": "$48.99",
+    "total_reviews": "9,139",
+    "image_url": "https://m.media-amazon.com/images/I/716Ap-eCdtL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:15.376265"
+  },
+  {
+    "title": "Monster Portable Bluetooth Speakers, Wireless Bluetooth Speaker with 40W Loud Stereo Sound, Outdoor Speakers with Handle, 12H Playtime, Supports TF Card, AUX for Outdoor",
+    "price": "$109.99",
+    "total_reviews": "367",
+    "image_url": "https://m.media-amazon.com/images/I/71kwRaRYpnL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:15.377398"
+  },
+  {
+    "title": "Google Audio Bluetooth Speaker - Wireless Music Streaming, Powerful Sound, Assistant Built-in, Wi-Fi and Bluetooth Connectivity, Smart Home Control, Stereo Pairing (Charcoal)",
+    "price": "$74.99",
+    "total_reviews": "154",
+    "image_url": "https://m.media-amazon.com/images/I/619tcbouxjL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:15.378530"
+  },
+  {
+    "title": "Klipsch The Three Plus Premium Bluetooth Speaker System, Walnut",
+    "price": "$347.61",
+    "total_reviews": "120",
+    "image_url": "https://m.media-amazon.com/images/I/81JzQc-xPWL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:15.379655"
+  },
+  {
+    "title": "Bluetooth Speakers, A66 Wireless Speakers,5W Portable Wireless Speaker with Clear Sound,Multi Playing Modes, Compatible with Cellphone, PC for Home or Outdoors",
+    "price": "$9.99",
+    "total_reviews": "523",
+    "image_url": "https://m.media-amazon.com/images/I/71+s4YrzyoL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:15.380792"
+  },
+  {
+    "title": "Monster Adventurer Max Portable Bluetooth Speaker, IPX7 Waterproof Wireless Speaker with Double Subwoofer Rich Bass, 100W Stereo Loud Sound with 24H Playtime for Outdoor, Beach, Gold",
+    "price": "$219.99",
+    "total_reviews": "306",
+    "image_url": "https://m.media-amazon.com/images/I/819TQDbKpQL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:15.381914"
+  },
+  {
+    "title": "BOGASING Bluetooth Speakers, M5 Portable Wireless Speaker with 40W Loud Stereo Sound & Punchy Bass, 30H Playtime, IPX7 Waterproof, Bluetooth 5.3, EQ, TWS, TF-Card, AUX, USB, for Outdoor Home Shower",
+    "price": "$59.99",
+    "total_reviews": "872",
+    "image_url": "https://m.media-amazon.com/images/I/617lwsTwveL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:15.383029"
+  },
+  {
+    "title": "Monster S150 Bluetooth Speaker, Strong Bluetooth 5.4, IPX7 Waterproof Wireless Speaker, Support Sulti-Channel Connection, HD Hands-Free Calling, Compact Design Bluetooth Speakers",
+    "price": "$29.99",
+    "total_reviews": "18",
+    "image_url": "https://m.media-amazon.com/images/I/81ea+bIvg6L._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:15.384157"
+  },
+  {
+    "title": "ZEALOT Bluetooth Speaker, Speakers Bluetooth Wireless,Waterproof,Portable Speaker with 75W Loud Stereo Sound,Deep Bass,EQ,IPX6,20H,Outdoor Speakers Large for Party,Beach,Camping,Black",
+    "price": "$75.99",
+    "total_reviews": "3,461",
+    "image_url": "https://m.media-amazon.com/images/I/91LWtWWOK2L._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:15.385283"
+  },
+  {
+    "title": "LG xboom Bounce by will.i.am, xboom Signature Sound, Portable Bluetooth Speaker, IP67 Dust and Water Resistant, up to 30 Hours of Playback, MIL-STD 810H Durability, Adjustable Carrying Strap",
+    "price": "$196.99",
+    "total_reviews": "N/A (no review)",
+    "image_url": "https://m.media-amazon.com/images/I/812h5Tcp9VL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:15.387110"
+  },
+  {
+    "title": "Marshall Acton III Bluetooth Home Speaker, Black",
+    "price": "$279.99",
+    "total_reviews": "1,060",
+    "image_url": "https://m.media-amazon.com/images/I/815nga8GBqL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:15.388601"
+  },
+  {
+    "title": "PreSonus Eris 3.5BT Bluetooth Studio Monitors, Pair \u2014 Powered, Active Monitor Speakers for Desktop, Turntable, Record Player, Bookshelf, DJ Speakers",
+    "price": "N/A (price not mentioned)",
+    "total_reviews": "170",
+    "image_url": "https://m.media-amazon.com/images/I/81MoNkG4qpL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:15.390612"
+  },
+  {
+    "title": "EWA A106 Portable Mini Bluetooth Speaker, Enhanced Bass and High Definition Sound, Portable Design, for iPhone, iPad,Nexus,Laptops and More (Rosegold)",
+    "price": "$19.79",
+    "total_reviews": "48,869",
+    "image_url": "https://m.media-amazon.com/images/I/61dCTXuvnJL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:15.391668"
+  },
+  {
+    "title": "Outdoor Rock Speaker 60W Deep Bass Multi-Sync up to 100 Speakers Auto-Pairing, IPX7 Waterproof Solar-Powered Bluetooth Speaker Perfect for Pool, Garden, Patio, Ideal for Music Entertainers - 2 Pack",
+    "price": "$159.99",
+    "total_reviews": "14",
+    "image_url": "https://m.media-amazon.com/images/I/91igYBCxRnL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:15.392693"
+  },
+  {
+    "title": "Dosmix Retro Bluetooth Speaker, Vintage Decor, Small Wireless Bluetooth Speaker, Cute Old Fashion Style for Kitchen Desk Bedroom Office Party Outdoor Kawaii for Android/iOS Devices (Blue)",
+    "price": "$13.99",
+    "total_reviews": "5,212",
+    "image_url": "https://m.media-amazon.com/images/I/61AhDMpl04L._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:15.393742"
+  },
+  {
+    "title": "Marshall Kilburn II Bluetooth Portable Speaker, Black & Brass",
+    "price": "$199.99",
+    "total_reviews": "3,848",
+    "image_url": "https://m.media-amazon.com/images/I/71rJy3iVNRL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:15.394787"
+  },
+  {
+    "title": "Bluetooth Speaker, Bone Conduction Portable Wireless Speaker with Louder Volume, Crystal Clear Sound, Rich Bass, Mini Music Player for Home, Outdoor, Party Pack of 2 (Black)",
+    "price": "$19.04",
+    "total_reviews": "363",
+    "image_url": "https://m.media-amazon.com/images/I/51KadnI+VNL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:15.395836"
+  },
+  {
+    "title": "MIATONE Boombox Outdoor Portable Bluetooth Speaker Waterproof Wireless Speakers Gifts for Women Mothers Mom Wife Her - Pink",
+    "price": "$39.99",
+    "total_reviews": "23,585",
+    "image_url": "https://m.media-amazon.com/images/I/71jnC5VAtmL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:15.396930"
+  },
+  {
+    "title": "EMEET Conference Speakerphone M0 Plus, 4 AI Mics 360\u00b0 Voice Pickup, Noise Reduction, USB C Speaker, Bluetooth Conference Speaker for 8 People w/Daisy Chain for 16 Compatible with Leading Software",
+    "price": "$57.99",
+    "total_reviews": "2,982",
+    "image_url": "https://m.media-amazon.com/images/I/71fUCtgWRfL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:15.398559"
+  },
+  {
+    "title": "INSMY Wearable Bluetooth Speakers,IP67 Waterproof,Clip-On Portable Small Personal Speaker/Clean Sound/Stereo Pair/Wireless 5.4/ENC Built-in Mic/Lightweight for Outdoor Golf Work Pool (Black)",
+    "price": "$23.99",
+    "total_reviews": "22",
+    "image_url": "https://m.media-amazon.com/images/I/718yeGAdZOL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:15.399967"
+  },
+  {
+    "title": "Bluetooth Speakers, 60W Portable Wireless Loud Outdoor Home Party Bluetooth Speaker with Subwoofer, FM Radio, LED Colorful Lights, Microphone, Remote and Big Powerful Stereo Deep Bass Sound Boombox",
+    "price": "$69.98",
+    "total_reviews": "685",
+    "image_url": "https://m.media-amazon.com/images/I/71PvIY11X2L._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:15.401409"
+  },
+  {
+    "title": "SOULION R80 Bluetooth Computer Speakers, USB Speakers with Digital Clock Display for Desktop Monitor, PC Speakers for Laptop Surround Sound Soundbar with LED Dynamic Light(USB Adapter Included)",
+    "price": "$21.67",
+    "total_reviews": "129",
+    "image_url": "https://m.media-amazon.com/images/I/61j-miTQLqL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:22.181564"
+  },
+  {
+    "title": "Vinyl Record Player Suitcase with Built-in Speakers, Portable Turntable with RCA, Line in,Bluetooth and Headphone Jack for Records, Vintage LP Player in PU Leather Black",
+    "price": "$39.99",
+    "total_reviews": "63",
+    "image_url": "https://m.media-amazon.com/images/I/71vQZFsT16L._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:22.183013"
+  },
+  {
+    "title": "Jabra Speak2 55 Wireless Bluetooth Speakerphone - Portable Speaker with 4 Noise-Cancelling Mics, 50mm Full-Range Speakers & Wideband Audio - Certified Microsoft Teams Speaker - Dark Grey",
+    "price": "$139.00",
+    "total_reviews": "131",
+    "image_url": "https://m.media-amazon.com/images/I/71EQ-8puhOL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:22.184061"
+  },
+  {
+    "title": "Marshall Tufton Portable Bluetooth Speaker, Black & Brass",
+    "price": "$348.99",
+    "total_reviews": "154",
+    "image_url": "https://m.media-amazon.com/images/I/71iLwhZ-Z8L._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:22.185112"
+  },
+  {
+    "title": "Bang & Olufsen Beolit 20 Powerful Portable Wireless Bluetooth Speaker, Grey Mist",
+    "price": "$474.90",
+    "total_reviews": "1,337",
+    "image_url": "https://m.media-amazon.com/images/I/71PucS6gjrL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:22.186157"
+  },
+  {
+    "title": "Portable Bluetooth Speaker, Outdoor Waterproof Wireless Speaker with Colorful Flashing Lights, 20W Super Bass, TWS Pairing Suitable for Outdoor, Party, Home, Beach, Travel (Black)",
+    "price": "$119.96",
+    "total_reviews": "4",
+    "image_url": "https://m.media-amazon.com/images/I/61sbgVAVbmL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:22.187298"
+  },
+  {
+    "title": "JBL Flip 6 - Waterproof Portable Bluetooth Speaker, Powerful Sound and deep bass, IPX7 Waterproof, 12 Hours of Playtime with Megen Hardshell Case - Pink",
+    "price": "$109.95",
+    "total_reviews": "101",
+    "image_url": "https://m.media-amazon.com/images/I/81o+oPgpc1L._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:22.188427"
+  },
+  {
+    "title": "ZEALOT IPX7 Waterproof Bluetooth Speaker 50W: 20H Playtime, BassUp Tech, Wireless Stereo Sound for Poolside, Camping Movie Night, RV Trips - Perfect for Outdoor Enthusiasts, Birthday Gifts",
+    "price": "$56.10",
+    "total_reviews": "113",
+    "image_url": "https://m.media-amazon.com/images/I/81YahdTzxoL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:22.189537"
+  },
+  {
+    "title": "Ultimate Ears Boom 3 Wireless Bluetooth Speaker, Bold Sound + Deep Bass, Bluetooth, Magic Button, Waterproof, 15 Hours Battery, Range of 150 ft, Night Black",
+    "price": "$103.96",
+    "total_reviews": "10,332",
+    "image_url": "https://m.media-amazon.com/images/I/717q1UPTVQL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:22.190659"
+  },
+  {
+    "title": "Portable Bluetooth Speaker 100W Big Powerful Wireless Boombox TWS Pairing Loud Stereo Sound Deep Bass Large Party Speakers with Subwoofer LED Lights for Outdoor Home Camping",
+    "price": "$89.98",
+    "total_reviews": "88",
+    "image_url": "https://m.media-amazon.com/images/I/71Gc3E9WsvL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:22.191855"
+  },
+  {
+    "title": "Pyle Portable Bluetooth PA Speaker System, 600W Rechargeable Outdoor Bluetooth Speaker Portable PA System with Dual 8\u201d Subwoofer 1\u201d Tweeter, Microphone in, Party Lights, USB, Radio, Remote",
+    "price": "$96.86",
+    "total_reviews": "14",
+    "image_url": "https://m.media-amazon.com/images/I/81LWm4Kc88L._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:22.193347"
+  },
+  {
+    "title": "OHAYO Portable Bluetooth Speakers, 40W HiFi Stereo Sound, IPX7 Waterproof, Wireless Stereo Pairing, Bluetooth 5.3, Loud Sounds Speaker for Home,Shower, Outdoor, Party, Black",
+    "price": "$49.99",
+    "total_reviews": "6",
+    "image_url": "https://m.media-amazon.com/images/I/81l3-uGlQXL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:22.194867"
+  },
+  {
+    "title": "Bobtot Portable Bluetooth Speakers with Strap Easy to Carry, Wireless IPX5 Waterproof Mini Speaker with Loud Stereo Sound, 20 Hours Playtime, Rechargeable Battery, Built-in Microphone, Pink",
+    "price": "$22.99",
+    "total_reviews": "948",
+    "image_url": "https://m.media-amazon.com/images/I/51cJJMHEUNL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:22.195994"
+  },
+  {
+    "title": "Monster Shock Portable Bluetooth Speaker, True Wireless Speaker, 30W Loud Stereo Sound, IPX6 Waterproof, 17 Hours Playback, Bluetooth 5.4 TWS Pairing, Outdoor Speakers with Handle",
+    "price": "$34.99",
+    "total_reviews": "1,619",
+    "image_url": "https://m.media-amazon.com/images/I/81n2gylxIOL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:22.197118"
+  },
+  {
+    "title": "Klipsch The Austin Portable Bluetooth Speaker with a 1.5\" Full Range Driver, IP67 dust and Waterproof Rating, 12 Hours of Playtime for a Premium Live Concert Experience",
+    "price": "$65.00",
+    "total_reviews": "161",
+    "image_url": "https://m.media-amazon.com/images/I/71Ph3IgL8tL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:22.198247"
+  },
+  {
+    "title": "MIATONE Bluetooth Speakers 36W Portable Speaker with Stereo Sound Bass, Bluetooth 5.3 Wireless USB Type C Outdoor, 5000mAh 24H Playtime IPX7 Waterproof, Color Lights Speaker (Black)",
+    "price": "$39.99",
+    "total_reviews": "863",
+    "image_url": "https://m.media-amazon.com/images/I/71GA-xkPdwL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:22.199296"
+  },
+  {
+    "title": "Bang & Olufsen Beosound Explore - Wireless Portable Outdoor Bluetooth speaker, IP 67 Dustproof and Waterproof, Anthracite",
+    "price": "$177.64",
+    "total_reviews": "2,703",
+    "image_url": "https://m.media-amazon.com/images/I/71BQf3HsBaS._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:22.200373"
+  },
+  {
+    "title": "Bluetooth Speaker, 15W Portable Wireless Speakers with Bluetooth 5.3, IPX6 Waterproof, LED Lights, TWS Pairing, Clear Bass, 12H Playtime for Home Outdoor Party Shower Beach, Electronic Gift",
+    "price": "$25.99",
+    "total_reviews": "268",
+    "image_url": "https://m.media-amazon.com/images/I/81BIQSfo-5L._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:22.201448"
+  },
+  {
+    "title": "Herdio 3.5\" Outdoor Bluetooth Speakers Wired Waterproof, 200W 3 Way Upgrade Premium Wall Mount Speakers, Durable Mountable Loud Sound System for Patio Indoor Deck Garage (Black Pair)",
+    "price": "$48.59",
+    "total_reviews": "219",
+    "image_url": "https://m.media-amazon.com/images/I/71RHmCcPH6L._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:22.202498"
+  },
+  {
+    "title": "Portable Bluetooth Speaker: 160W Peak Powerful Loud Sound Deep Bass Wireless Boombox Large Subwoofer 15 Hours Battery Life Fast Charging",
+    "price": "$159.99",
+    "total_reviews": "6",
+    "image_url": "https://m.media-amazon.com/images/I/71yAWf7OSfL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:22.203533"
+  },
+  {
+    "title": "SOULION R100 Bluetooth Computer Speakers with Dynamic LED Light, USB Plug & Play PC Speakers with Switch Button, Clearly Sound Soundbar for Desktop Laptop Monitor(USB-C to USB Adapter Included)",
+    "price": "$19.99",
+    "total_reviews": "440",
+    "image_url": "https://m.media-amazon.com/images/I/717lT7kVKBL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:22.204945"
+  },
+  {
+    "title": "LENRUE Bluetooth Speaker,Wireless Portable Speakers with TWS, 16H Playtime,Loud Clear Sound for Home,Travel and Outdoor,Handfree Calls Compatible with for iPhone (Powder Blue)",
+    "price": "$13.99",
+    "total_reviews": "3,673",
+    "image_url": "https://m.media-amazon.com/images/I/816LCUN44lL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:22.206506"
+  },
+  {
+    "title": "QFX Bluetooth 1953 Hot Rod Pickup Truck Replica Speaker, 3-inch Speakers, Hands Free Link, Built-in Microphone, FM Radio and LED Party Lights, Red - BT-1953-RED",
+    "price": "$23.39",
+    "total_reviews": "408",
+    "image_url": "https://m.media-amazon.com/images/I/71h49sRTaeS._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:31.145280"
+  },
+  {
+    "title": "SPS-1000-BK Dual Bluetooth Indoor & Outdoor Loudspeaker Pair, Black",
+    "price": "$169.99",
+    "total_reviews": "3",
+    "image_url": "https://m.media-amazon.com/images/I/81W58KMoogL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:31.146919"
+  },
+  {
+    "title": "Bluetooth Speakers, [Blod Bass & Dynamic Lights] Portable Wireless Speaker with 24W Stereo Sound, TWS Mode, 24Hrs Playtime, IPX6 Waterproof Blue Tooth Speaker",
+    "price": "$59.99",
+    "total_reviews": "1,214",
+    "image_url": "https://m.media-amazon.com/images/I/81cQGuio4ZL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:31.148046"
+  },
+  {
+    "title": "Ortizan Portable Bluetooth Speaker Loud, 80W Peak, Bass Up, 20H Playtime, IPX7 Waterproof, RGB Lights, Wireless Stereo Pairing, BT5.3, USB-C, Subwoofer Outdoor Speaker for Camping, Beach, Backyard",
+    "price": "$59.99",
+    "total_reviews": "187",
+    "image_url": "https://m.media-amazon.com/images/I/81MC+OooQsL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:31.149183"
+  },
+  {
+    "title": "Sony SRS-XE300 X-Series Wireless Portable-Bluetooth-Speaker, IP67 Waterproof, Dustproof and Shockproof with 24 Hour Battery, Black",
+    "price": "N/A (price not mentioned)",
+    "total_reviews": "504",
+    "image_url": "https://m.media-amazon.com/images/I/71HFW4qdppL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:31.150784"
+  },
+  {
+    "title": "ZEALOT Bluetooth Speaker, 110W Peak(100W) Booming Sound Speakers Wireless, Dual Pairing, XBass, Bluetooth 5.3, 24000mAh Power Bank, Portable Outdoor Waterproof Speaker for Camping, Beach and Party",
+    "price": "$96.97",
+    "total_reviews": "286",
+    "image_url": "https://m.media-amazon.com/images/I/81G0ON7B7zL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:31.151978"
+  },
+  {
+    "title": "TOZO PA2 Bluetooth Speaker with Dual Drivers & Dual Bass Diaphragms, Deep Bass Loud Stereo Sound, 25H Playtime, Custom EQ App Portable Wireless Speaker for Home Outdoors Travel Red",
+    "price": "$29.99",
+    "total_reviews": "1,153",
+    "image_url": "https://m.media-amazon.com/images/I/810iWIEfcNL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:31.153232"
+  },
+  {
+    "title": "DONOW Portable Bluetooth Speaker with Lights, 30W Stereo Sound, Bass Boost, IPX5 Waterproof, 20H Playtime, Built-in Mic, Speakers Bluetooth Wireless for Home, Party, Outdoor, Travel(Black)",
+    "price": "$39.99",
+    "total_reviews": "696",
+    "image_url": "https://m.media-amazon.com/images/I/71vpIpnDRkL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:31.154500"
+  },
+  {
+    "title": "Monster MFS 1 Portable Bluetooth Speakers, Bluetooth Speaker Wireless with 40W Stereo Sound, Outdoor Speakers with Handle, 12H Playtime, Supports TF Card, AUX for Outdoor Indoor",
+    "price": "$95.98",
+    "total_reviews": "150",
+    "image_url": "https://m.media-amazon.com/images/I/71z2tTF6pZL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:31.155642"
+  },
+  {
+    "title": "Passau Portable Bluetooth Speakers Loud 40W Peak Stereo Sound, Passive Radiators-Deep Bass, All Day Playtime, Adjustable Strap, BT5.3, IPX5 Wireless Speaker RGB Lights for Indoor Outdoor",
+    "price": "$49.99",
+    "total_reviews": "486",
+    "image_url": "https://m.media-amazon.com/images/I/91EWQlkVx3L._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:31.156777"
+  },
+  {
+    "title": "Wireless Speakers, Portable Bluetooth Speaker with IPX4 Waterproof, Perfect Small Size, HD Sound, Wireless Bluetooth Speaker for Home Office Bookshelf Outdoor Travel Camping-White",
+    "price": "$19.99",
+    "total_reviews": "110",
+    "image_url": "https://m.media-amazon.com/images/I/71riPiyg0fL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:31.158294"
+  },
+  {
+    "title": "Pyle Wireless Portable Bluetooth Boombox Speaker - 120W Rechargeable Boom Box Speaker Portable Barrel Loud Stereo System - Flashing LED, FM Radio/Aux/MP3/USB Flash Drive/Micro SD, & 1/4\" PPHP42B,Black",
+    "price": "$60.99",
+    "total_reviews": "398",
+    "image_url": "https://m.media-amazon.com/images/I/91KD0PDWVDL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:31.159790"
+  },
+  {
+    "title": "DINDIN Portable Bluetooth Speaker, 80W (Peak) Wireless TWS Speakers with Deep Bass, 20H Playtime, Surround Stereo Loud Sound, BT5.3/ AUX/USB/Mic Input for Party/Outdoor/Indoor/Travel (Black)",
+    "price": "$79.99",
+    "total_reviews": "51",
+    "image_url": "https://m.media-amazon.com/images/I/81kH1TdVOpL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:31.160920"
+  },
+  {
+    "title": "JBL Charge 5 - Portable Bluetooth Speaker with Megen Hardshell Travel Case with IP67 Waterproof and USB Charge Out (Black)",
+    "price": "$152.95",
+    "total_reviews": "1,160",
+    "image_url": "https://m.media-amazon.com/images/I/816uqjOXk6S._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:31.162044"
+  },
+  {
+    "title": "INSMY Wearable Bluetooth Speakers,IP67 Waterproof,Clip-On Portable Small Personal Speaker/Clean Sound/Stereo Pair/Wireless 5.4/ENC Built-in Mic/Lightweight for Outdoor Golf Work Pool (Black)",
+    "price": "$23.99",
+    "total_reviews": "22",
+    "image_url": "https://m.media-amazon.com/images/I/718yeGAdZOL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:31.163160"
+  },
+  {
+    "title": "LENRUE Shower Speaker, Bluetooth Waterproof Speaker Wireless, Portable Speakers with Clear Loud Sound, Suction Cup, Lanyard, Ideas Gifts",
+    "price": "$9.99",
+    "total_reviews": "190",
+    "image_url": "https://m.media-amazon.com/images/I/71zfhn6hQBL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:31.164298"
+  },
+  {
+    "title": "Audioengine A2+ Desktop 24 Bit Wireless Bluetooth Desktop Speakers - 60W Computer Speakers for Music and Gaming",
+    "price": "$279.00",
+    "total_reviews": "3,297",
+    "image_url": "https://m.media-amazon.com/images/I/51odD6JDkML._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:31.165421"
+  },
+  {
+    "title": "Ortizan Portable Bluetooth Speaker with Big Sound,Punchy Bass,IPX7 Waterproof,15H Playtime,Bluetooth 5.3,AUX&TF Card,Stereo Pairing,Small Wireless Speaker for Outdoor,Electronic Gadgets,Gift Ideas",
+    "price": "$39.99",
+    "total_reviews": "347",
+    "image_url": "https://m.media-amazon.com/images/I/71IrHU9Ez1L._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:31.166540"
+  },
+  {
+    "title": "Sony ULT Field 1 Waterproof Portable Bluetooth Speaker, Enhanced Bass, 12h Battery, IP67 Rated Dustproof Shockproof Rustproof, Detachable Strap SRSULT10H, Forest Gray",
+    "price": "$128.00",
+    "total_reviews": "1,068",
+    "image_url": "https://m.media-amazon.com/images/I/71moGFP0VtL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:31.167687"
+  },
+  {
+    "title": "TREBLAB Ultra Loud Wireless Speaker - 60W Stereo Sound with Deep Bass, 20H Playtime, Powerbank, Waterproof, Loudest Portable Bluetooth Speaker for Home, Outdoor Party, Beach, Work, Travel, HD-Max",
+    "price": "$159.97",
+    "total_reviews": "1,648",
+    "image_url": "https://m.media-amazon.com/images/I/81z-lUOVLML._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:31.168947"
+  },
+  {
+    "title": "Portable Bluetooth Speaker with Subwoofer, Wireless Speakers with Booming Bass, FM Radio, RGB Lights, EQ, Stereo Sound, 10H Playtime, 30W Loud Speaker for Home, Outdoor, Party, Travel, Camping, Gifts",
+    "price": "$47.98",
+    "total_reviews": "4,220",
+    "image_url": "https://m.media-amazon.com/images/I/61CRq00kojL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:31.170461"
+  },
+  {
+    "title": "Mellif Jobsite Radio Speaker Compatible with Dewalt 20v Max Battery, Enhanced Signal Reception, 100ft Wireless Range, Stereo, IPX54 Waterproof, TWS, AM/FM Presets, 2.0 Battery & 18V AC Power Cord",
+    "price": "$79.99",
+    "total_reviews": "87",
+    "image_url": "https://m.media-amazon.com/images/I/61-9ztzUFgL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:31.172064"
+  },
+  {
+    "title": "MEREDO Sound Bar for Smart TV 3.1CH PC Gaming Soundbar with Subwoofer RGB Lighting Audio Sync Surround Sound System BT 5.3/HD-ARC/Optical/AUX/USB for Desktop Tablets Consoles Home Cinema",
+    "price": "$97.98",
+    "total_reviews": "262",
+    "image_url": "https://m.media-amazon.com/images/I/61A+thAMEmL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:38.761124"
+  },
+  {
+    "title": "PHILIPS X3206 Bluetooth Party Speaker with Deep bass, Up to 14 Hours Battery, Party Lights and Karaoke Effects, Microphone and Guitar Input, Audio-in, USB Charging, Built-in Trolley, TAX3206",
+    "price": "$79.99",
+    "total_reviews": "512",
+    "image_url": "https://m.media-amazon.com/images/I/71Hb872wvPL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:38.762849"
+  },
+  {
+    "title": "Portable Bluetooth Speaker, 30W Peak, 12H Playtime, IPX5 Waterproof with Light, TWS Pairing, Wireless Speaker for Home/Party/Outdoor/Beach, Birthday Gift (Black)",
+    "price": "$29.99",
+    "total_reviews": "206",
+    "image_url": "https://m.media-amazon.com/images/I/81Hf+oGHFsL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:38.763996"
+  },
+  {
+    "title": "TREBLAB Ultra Loud Wireless Speaker - 60W Stereo Sound with Deep Bass, 20H Playtime, Powerbank, Waterproof, Loudest Portable Bluetooth Speaker for Home, Outdoor Party, Beach, Work, Travel, HD-Max",
+    "price": "$159.97",
+    "total_reviews": "1,648",
+    "image_url": "https://m.media-amazon.com/images/I/81z-lUOVLML._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:38.765145"
+  },
+  {
+    "title": "DEWALT Wearable Bluetooth Speaker [Limited Edition - Black] Clip-On Wireless Jobsite Pro Water-Resistant Portable Speaker (Non- Magnetic), Built-in Mic for Hands-Free Music/Calls, Bluetooth Speaker",
+    "price": "$67.99",
+    "total_reviews": "1,207",
+    "image_url": "https://m.media-amazon.com/images/I/815naQNg48L._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:38.766207"
+  },
+  {
+    "title": "Monster Shock Plus Bluetooth Speaker, Portable Speaker with 30W Loud Stereo Sound, Bluetooth 5.4, TWS Pairing, 15H Playtime, Support AUX/TF Card, IPX6 Waterproof Wireless Speakers for Outdoor, Home",
+    "price": "$79.99",
+    "total_reviews": "21",
+    "image_url": "https://m.media-amazon.com/images/I/81uOx7HjfYL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:38.767257"
+  },
+  {
+    "title": "Monster Shock Pro Bluetooth Speaker with Strap, 100W Loud Speaker with Deep Bass, Portable Wireless Speakers with TWS, Long Playtime & Waterproof for Outdoors/Indoors, Supports AUX/TF Card/USB Audio",
+    "price": "$139.99",
+    "total_reviews": "13",
+    "image_url": "https://m.media-amazon.com/images/I/81wtX9+u47L._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:38.768302"
+  },
+  {
+    "title": "Ortizan Portable Bluetooth Speaker with Big Sound,Punchy Bass,IPX7 Waterproof,15H Playtime,Bluetooth 5.3,AUX&TF Card,Stereo Pairing,Small Wireless Speaker for Outdoor,Electronic Gadgets,Gift Ideas",
+    "price": "$39.99",
+    "total_reviews": "347",
+    "image_url": "https://m.media-amazon.com/images/I/71IrHU9Ez1L._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:38.769369"
+  },
+  {
+    "title": "Wearable Bluetooth Speaker with Mic - Clip On Portable Speakers, Wireless Speaker for Hands-Free Calls, IPX7 Waterproof, BT 5.3, 15H Playtime, Gifts for Bike/Running/Jobsite(Non Magnetic)",
+    "price": "$39.99",
+    "total_reviews": "108",
+    "image_url": "https://m.media-amazon.com/images/I/71ck16lf7eL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:38.770419"
+  },
+  {
+    "title": "JBL Flip 6 - Waterproof Portable Bluetooth Speaker, Powerful Sound and deep bass, IPX7 Waterproof, 12 Hours of Playtime with Megen Hartshell Case",
+    "price": "$109.95",
+    "total_reviews": "629",
+    "image_url": "https://m.media-amazon.com/images/I/816FR+yh4GL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:38.771463"
+  },
+  {
+    "title": "2.1 Bluetooth Computer Speakers with Wireless Subwoofer and Wireless Touchpad for Desktop Laptop Pc Stereo Gaming Speakers, 4 EQ Modes, Aesthetic Style with Great Sound Quality",
+    "price": "$119.99",
+    "total_reviews": "176",
+    "image_url": "https://m.media-amazon.com/images/I/71u-eO6jB2L._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:38.772875"
+  },
+  {
+    "title": "Nylavee Computer Speakers, Hi-Fi Stereo Sound PC Speakers with 9 LED Lighting Modes, Bass Boost, USB/USB-C Powered and 3.5mm Wired Connection for Desktop, PC, MacBook, Laptop, Monitor, Gaming",
+    "price": "$39.99",
+    "total_reviews": "7",
+    "image_url": "https://m.media-amazon.com/images/I/71OU2AjmEgL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:38.774283"
+  },
+  {
+    "title": "SOULION R100 Bluetooth Computer Speakers with Dynamic LED Light, USB Plug & Play PC Speakers with Switch Button, Clearly Sound Soundbar for Desktop Laptop Monitor(USB-C to USB Adapter Included)",
+    "price": "$19.99",
+    "total_reviews": "440",
+    "image_url": "https://m.media-amazon.com/images/I/717lT7kVKBL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:38.775331"
+  },
+  {
+    "title": "Denon Home 150 Wireless Smart Speaker \u2013 Compact Design, Wi-Fi & Bluetooth, HEOS Built-in, Alexa Built-in, Siri & AirPlay 2, Spotify Connect, Multi-Room Support, Black",
+    "price": "$199.00",
+    "total_reviews": "961",
+    "image_url": "https://m.media-amazon.com/images/I/51M+115bOJS._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:38.776408"
+  },
+  {
+    "title": "Bluetooth Computer Speakers for Desktop with Clear Sound, Flowing LED Computer Speaker for Desktop Laptop Monitor, Bluetooth & USB Input Black",
+    "price": "$22.99",
+    "total_reviews": "347",
+    "image_url": "https://m.media-amazon.com/images/I/71YmefFkD6L._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:38.777500"
+  },
+  {
+    "title": "Portable Loud Bluetooth Speaker, 60W Large Subwoofer Wireless Bluetooth 5.3 with Powerbank USB Charge Out,Waterproof IPX7,Rugged Outdoor Boombox for Party,Beach,Golf Life,Pool, Shower,Bike Use",
+    "price": "$43.99",
+    "total_reviews": "57",
+    "image_url": "https://m.media-amazon.com/images/I/81z8IAdhlkL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:38.778765"
+  },
+  {
+    "title": "OHAYO 40W Wireless Portable Bluetooth Speaker with Lights, IPX7 Waterproof, Loud Sound, RGB Lights,TWS Pairing, AUX&TF-Card in, for Home/Party/Travel/Outdoor/Beach",
+    "price": "$39.99",
+    "total_reviews": "72",
+    "image_url": "https://m.media-amazon.com/images/I/81C4pA3W3yL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:38.779908"
+  },
+  {
+    "title": "Marshall Willen II Bluetooth Portable Speaker - Cream",
+    "price": "$119.99",
+    "total_reviews": "161",
+    "image_url": "https://m.media-amazon.com/images/I/81d1qS5AfPL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:38.781042"
+  },
+  {
+    "title": "JBL Flip 5 Waterproof Wireless Portable Bluetooth Speaker - TT - Black",
+    "price": "$89.95",
+    "total_reviews": "1,438",
+    "image_url": "https://m.media-amazon.com/images/I/71A26Nl9RHL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:38.782119"
+  },
+  {
+    "title": "Bluetooth Speakers, Portable Speakers Bluetooth Wireless with 20W Loud Stereo Sound, IPX7 Waterproof Shower Speakers, TWS Loud Party Speakers, Multi-Colors Lights, 15 Hrs Playtime for Indoor&Outdoor",
+    "price": "$39.99",
+    "total_reviews": "238",
+    "image_url": "https://m.media-amazon.com/images/I/711jf-522jL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:38.783180"
+  },
+  {
+    "title": "SOULION R50 Bluetooth Computer Speakers, 3.5mm PC Sound Bar for Desktop Monitor, Wired USB Powered & Colorful LED Lights with Switch Button, Surround Sound Soundbar PC Spearkers for Computer",
+    "price": "$21.99",
+    "total_reviews": "1,963",
+    "image_url": "https://m.media-amazon.com/images/I/71ULVUlIBIL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:38.784594"
+  },
+  {
+    "title": "Pyle Bluetooth PA Speaker System - 600W Rechargeable Outdoor Bluetooth Speaker Portable PA System w/ Dual 8\u201d Subwoofer 1\u201d Tweeter, Microphone In, Party Lights, USB, Radio, Remote - Pyle PPHP2836B",
+    "price": "$84.99",
+    "total_reviews": "1,764",
+    "image_url": "https://m.media-amazon.com/images/I/81CVyo-HwML._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:38.786017"
+  },
+  {
+    "title": "Portable Bluetooth Speaker 120W Peak 80W Wireless Speakers, TWS Pairing, Deep Bass, Hi-Fi Loud Speaker, IPX6 Waterproof, DSP Sound Boombox for Outdoor, Camping, Party, Beach",
+    "price": "$109.98",
+    "total_reviews": "13",
+    "image_url": "https://m.media-amazon.com/images/I/71w9PpquF7L._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:46.281045"
+  },
+  {
+    "title": "Wearable Bluetooth Speaker, Clip On Mini Speaker, Small Portable Speakers Built in White Noise Sound for Baby and Adult, 9.5H Playtime, IPX6 Waterproof",
+    "price": "$11.99",
+    "total_reviews": "17",
+    "image_url": "https://m.media-amazon.com/images/I/61u3fJNWEkL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:46.282494"
+  },
+  {
+    "title": "Monster Shock Plus Bluetooth Speaker, Portable Speaker with 30W Loud Stereo Sound, Bluetooth 5.4, TWS Pairing, 15H Playtime, Support AUX/TF Card, IPX6 Waterproof Wireless Speakers for Outdoor, Party",
+    "price": "$35.99",
+    "total_reviews": "268",
+    "image_url": "https://m.media-amazon.com/images/I/81uOx7HjfYL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:46.283677"
+  },
+  {
+    "title": "DOSS SoundBox H300 Bookshelf Bluetooth Speaker, 90W Stereo Sound with Extra Bass, Three DSP Technologies, 20H Playtime, BT 5.3, Wireless for Home, Livingroom, Office",
+    "price": "$135.99",
+    "total_reviews": "23",
+    "image_url": "https://m.media-amazon.com/images/I/714bIRkJTGL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:46.284753"
+  },
+  {
+    "title": "2025 Wearable Bluetooth Speaker, IP56 Waterproof Clip On Wireless Portable Speaker with 14H Playtime and Built-in Mic for Hands-Free Music/Calls, HD Audio for Outdoor/Gym/Work, Yellow",
+    "price": "$129.99",
+    "total_reviews": "32",
+    "image_url": "https://m.media-amazon.com/images/I/71dqacpvDcL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:46.285883"
+  },
+  {
+    "title": "Dnil Portable Bluetooth Speaker, Wireless Sound bar, Portable Sound bar for Home, Party, Outdoor, Beach, Travel",
+    "price": "$79.96",
+    "total_reviews": "N/A (no review)",
+    "image_url": "https://m.media-amazon.com/images/I/711ck-AzSLL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:46.287290"
+  },
+  {
+    "title": "JBL Charge 4 Waterproof Wireless Bluetooth Speaker with Hardshell Case (Black Camo)",
+    "price": "$104.99",
+    "total_reviews": "570",
+    "image_url": "https://m.media-amazon.com/images/I/61lXaSp6ppL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:46.288336"
+  },
+  {
+    "title": "Portable Bluetooth Speaker, 30W 360\u00b0 Surround Sound IPX7 Waterproof Wireless Golf Speakers,Outdoor Loud TWS Speaker,for Beach,Party,Camping Gift,8H Playtime",
+    "price": "$49.69",
+    "total_reviews": "24",
+    "image_url": "https://m.media-amazon.com/images/I/717V-Liy9yL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:46.289404"
+  },
+  {
+    "title": "Monster Adventurer Max Portable Bluetooth Speaker, IPX7 Waterproof Wireless Speaker with Double Subwoofer Rich Bass, 100W Stereo Loud Sound with 24H Playtime for Outdoor Pool Beach, Gold",
+    "price": "$199.99",
+    "total_reviews": "68",
+    "image_url": "https://m.media-amazon.com/images/I/81sJJqsYVlL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:46.290479"
+  },
+  {
+    "title": "Monster Sparkle Bluetooth Speaker Loud, 120W Peak Portable Speaker with Powerful Sound and Heavy Bass, Full-Screen Colorful Lights, 24H Playtime, AUX, USB Playback, Waterproof",
+    "price": "$79.99",
+    "total_reviews": "2",
+    "image_url": "https://m.media-amazon.com/images/I/71bC9VOl7aL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:46.291516"
+  },
+  {
+    "title": "Portable Bluetooth PA Speaker System - 300W Rechargeable Indoor/Outdoor Bluetooth Portable PA System w/ 8\u201d Subwoofer 1\u201d Tweeter, Microphone In, Party Lights, MP3/USB, Radio, Remote - Pyle PPHP836B",
+    "price": "$31.97",
+    "total_reviews": "1,737",
+    "image_url": "https://m.media-amazon.com/images/I/81Mbo4vW-NL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:46.292937"
+  },
+  {
+    "title": "Bluetooth CD Player Portable, Small CD Players for Home, Portable CD Player with Speakers, RGB Color Light, Timer, Optical Audio Output Jack Multifunctional Desktop CD Player\uff08Grey\uff09",
+    "price": "$68.49",
+    "total_reviews": "39",
+    "image_url": "https://m.media-amazon.com/images/I/71XCsujCuDL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:46.294344"
+  },
+  {
+    "title": "JBL FLIP 5, Waterproof Portable Bluetooth Speaker, Black, with A Megen Hardshell Protection Case",
+    "price": "$89.95",
+    "total_reviews": "95",
+    "image_url": "https://m.media-amazon.com/images/I/81Cl3cWtToL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:46.295407"
+  },
+  {
+    "title": "IXTECH Outdoor Bluetooth Speakers, Waterproof Portable Bluetooth Speaker Wireless with Lights, Outdoor Gifts for Dads Mom, Multi-Sync Wireless Connection, Lantern Speakers Mountable, 2 Pack",
+    "price": "$59.90",
+    "total_reviews": "464",
+    "image_url": "https://m.media-amazon.com/images/I/91B08ejkLsL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:46.296474"
+  },
+  {
+    "title": "AIYIMA S400 80 Watt 2.0 Channel Home Audio Active Bookshelf Speakers with Bluetooth/Optical/RCA/USB Input for TV,with Woofer, Horn Tweeter,Remote Control",
+    "price": "$79.97",
+    "total_reviews": "70",
+    "image_url": "https://m.media-amazon.com/images/I/61bniRSD-fL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:46.297531"
+  },
+  {
+    "title": "2 Pcs Magnetic Bluetooth Speaker,Multifunctional Portable G200 Speaker with Multi RGB Color Light Show-3D Surround Sound Effect,Phone Stand for iPhone, Android, TWS Pairing (Black+Black)",
+    "price": "$24.74",
+    "total_reviews": "131",
+    "image_url": "https://m.media-amazon.com/images/I/71Jemmd49WL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:46.298589"
+  },
+  {
+    "title": "Bobtot Portable Bluetooth Speaker, 60W Peak Boombox IPX6 Waterproof, Outdoor Speaker with Handle Stereo Loud Sound, Deep Bass, 8800mAh Battery, TWS/TF/AUX/EQ Outdoor for Party Beach Camping",
+    "price": "$79.99",
+    "total_reviews": "68",
+    "image_url": "https://m.media-amazon.com/images/I/71t2iy6DdvL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:46.299616"
+  },
+  {
+    "title": "JBL Charge 5 - Waterproof Portable Bluetooth Speaker - Black/Black (Pair)",
+    "price": "$239.99",
+    "total_reviews": "44",
+    "image_url": "https://m.media-amazon.com/images/I/61g-FQ3bMtL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:46.300639"
+  },
+  {
+    "title": "Monster Blaster Micro Clip on Bluetooth Speaker, Wireless Wearable Speaker for Hands-Free Calls and Music, Small Portable Speakers for Workout, Running, TWS, IPX7 Waterproof (Non-Magnetic), Black",
+    "price": "$79.99",
+    "total_reviews": "3",
+    "image_url": "https://m.media-amazon.com/images/I/81SygsVDq3L._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:46.301683"
+  },
+  {
+    "title": "Herdio 6.5'' Bluetooth in Wall in Ceiling Speakers 600W 2-Way Flush Mount Speakers System with Wall Amplifier Receiver for Home Theater Office Bathroom(2Pairs, Paintable-Grille)",
+    "price": "$148.49",
+    "total_reviews": "175",
+    "image_url": "https://m.media-amazon.com/images/I/71FK-L65HtL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:46.302742"
+  },
+  {
+    "title": "Tenveo Conference Speaker with Microphone, Bluetooth/Wireless/USB omnidirectional Speakerphone Noise Cancelling Conference Call 360\u00b0 Pickup for Skype Zoom MicroTeams for 10~12 People Online Meeting",
+    "price": "$99.00",
+    "total_reviews": "9",
+    "image_url": "https://m.media-amazon.com/images/I/81Ugn3mfKnL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:46.304192"
+  },
+  {
+    "title": "EWA A110 Small Bluetooth Speaker with Loud Stereo Sound, Portable Wireless Speaker with Flashlight, 12 Hour Playtime, Support TF Card, Mini Speaker for Travel, Home, Outdoor Party (GrayWhite)",
+    "price": "$9.99",
+    "total_reviews": "33",
+    "image_url": "https://m.media-amazon.com/images/I/61namQ9jBNL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:46.305579"
+  },
+  {
+    "title": "Vinyl Record Player with Built-in Stereo Speakers Bluetooth Belt-Drive Turntable High Fidelity Turntables for Vinyl Records with Magnetic Cartridge AT-3600L 2 Speed Turntable with LED Light",
+    "price": "$139.99",
+    "total_reviews": "6",
+    "image_url": "https://m.media-amazon.com/images/I/612KwrenZGL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:54.382023"
+  },
+  {
+    "title": "Kids Mini Karaoke Machine: Portable Bluetooth Speaker with 2 Wireless Mics for Kids & Adults - Perfect Birthday Party Home Entertainment, Ideal Gifts for Girls & Boys 4-12",
+    "price": "$13.29",
+    "total_reviews": "70",
+    "image_url": "https://m.media-amazon.com/images/I/61UXP9Q7HBL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:54.383453"
+  },
+  {
+    "title": "Herdio 6.5'' Bluetooth in Wall in Ceiling Speakers 600W 2-Way Flush Mount Speakers System with Wall Amplifier Receiver for Home Theater Office Bathroom(2Pairs, Paintable-Grille)",
+    "price": "$148.49",
+    "total_reviews": "175",
+    "image_url": "https://m.media-amazon.com/images/I/71FK-L65HtL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:54.384505"
+  },
+  {
+    "title": "Monster Atomic Atom Wearable Bluetooth Speaker with Mics for Hands-Free Calls, IPX5 Waterproof, Compact and Portable Speaker for Workout, Cycling, Red",
+    "price": "$39.99",
+    "total_reviews": "8",
+    "image_url": "https://m.media-amazon.com/images/I/81vapbLVKrL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:54.385537"
+  },
+  {
+    "title": "Portable Bluetooth Speakers,IPX6 Waterproof Outdoor Speakers,3D HD Stereo with LED Light,AUX&TF-Card Input,Bluetooth,TWS Paring,for Home/Party/Outdoor/Beach,Electronics,Birthday Gift.",
+    "price": "$19.99",
+    "total_reviews": "27",
+    "image_url": "https://m.media-amazon.com/images/I/71uPud4HZ1L._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:54.386582"
+  },
+  {
+    "title": "ZEALOT Portable Bluetooth Speaker,70W Peak(50W) Booming Sound Speakers with LED Light,Bluetooth 5.3, Loud Speaker for Home,Party,Camping,Beach,Gifts(Black)",
+    "price": "$59.97",
+    "total_reviews": "88",
+    "image_url": "https://m.media-amazon.com/images/I/81ZoaRFnCHL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:54.387621"
+  },
+  {
+    "title": "Xiaomi Mini Bluetooth Speaker Bluetooth 5.4, Wireless Blue Tooth Speaker IP67 Waterproof with 10 Hours Playback Time, Supports TWS Connection, Black",
+    "price": "$39.99",
+    "total_reviews": "23",
+    "image_url": "https://m.media-amazon.com/images/I/81zRE7J2ltL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:54.388639"
+  },
+  {
+    "title": "BUGANI Bluetooth Speakers Portable Bluetooth Speaker, 100ft Wireless Range, Louder Volume, Stereo Sound, Amazing Bass 24H Playtime, IPX5, Built-in Mic, Wireless Speaker for Ourdoor Indoor(Black)",
+    "price": "$99.99",
+    "total_reviews": "3",
+    "image_url": "https://m.media-amazon.com/images/I/81Z-KRYsgBL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:54.389673"
+  },
+  {
+    "title": "Wearable Bluetooth Speaker-UPGRADED Longer Battery Life-20 Hours All-Day Playtime Clip On Wireless Jobsite Portable Speaker Mini, with Built-in Mic, 120dB Loud and 800mAh Battery, Black",
+    "price": "$59.99",
+    "total_reviews": "N/A (no review)",
+    "image_url": "https://m.media-amazon.com/images/I/71yFcJ+x+dL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:54.391006"
+  },
+  {
+    "title": "Monster S260 Bluetooth Speaker, Mini Portable Speaker with Bluetooth 5.4, 10W Powerful Sound Wireless Speakers for Outdoor, Compact Design with Silicone Strap, AUX & TF Card Support, Hands-Free Calls",
+    "price": "$59.99",
+    "total_reviews": "N/A (no review)",
+    "image_url": "https://m.media-amazon.com/images/I/71A0q+Q25ML._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:54.392335"
+  },
+  {
+    "title": "House of Marley Rise Up Solar Bluetooth Speaker, IP67 Waterproof, 14H Playtime, Solar Charging, Quick Charge, Eco-Friendly Recycled Materials, Bamboo Design & Bottle Opener (Blue)",
+    "price": "$119.99",
+    "total_reviews": "20",
+    "image_url": "https://m.media-amazon.com/images/I/71n8RtMU2aL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:54.393724"
+  },
+  {
+    "title": "COMISO Bluetooth Portable Speaker V5.3 With 20W Loud Stereo Sound, IPX7 Waterproof, Deep Bass, 24-Hour Playtime, Rugged Metal, Compact Wireless for Outdoor/Home/Travel/Gift",
+    "price": "$49.97",
+    "total_reviews": "51",
+    "image_url": "https://m.media-amazon.com/images/I/81PDQwVtIsL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:54.395112"
+  },
+  {
+    "title": "Oraolo Portable Bluetooth Speakers, IPX7 Waterproof Portable Speaker with 15W Immersive Audio, 30H Playtime, LED Light, Bluetooth 5.3, Support TWS, Wireless Speakers for Outdoor Camping Home",
+    "price": "$79.99",
+    "total_reviews": "N/A (no review)",
+    "image_url": "https://m.media-amazon.com/images/I/81rk8Ou25QL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:54.396510"
+  },
+  {
+    "title": "Herdio 6.5 Inches Indoor Outdoor Bluetooth Speakers Waterproof Wired 400 Watts with Powerful Bass,2 Way Wall Mount Speakers All-Weather Durability for Patio Home Deck Porch Backyard(Pair,Withe)",
+    "price": "$104.39",
+    "total_reviews": "110",
+    "image_url": "https://m.media-amazon.com/images/I/61cRHdstacL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:54.397531"
+  },
+  {
+    "title": "DEWALT 2-in-1 Neckband Bluetooth Headphones w/Built-in Speakers, Jobsite Wearable Speaker & Around Neck Headphones, Wireless Bluetooth Headset, 60+ Hrs, Hands-Free Music & Calls (Black)",
+    "price": "$99.99",
+    "total_reviews": "949",
+    "image_url": "https://m.media-amazon.com/images/I/613964jPd3L._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:54.398578"
+  },
+  {
+    "title": "2025 Portable Bluetooth Speaker IPX7 Waterproof 20H Playtime for Camping BT5.3 Wireless Party Small Bluetooth Speaker Loud Easy Stereo Pairing for Outdoor Office Pink Gift",
+    "price": "$99.99",
+    "total_reviews": "N/A (no review)",
+    "image_url": "https://m.media-amazon.com/images/I/71HVMJ8gAyL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:54.399978"
+  },
+  {
+    "title": "SOPKVL Bluetooth Speaker Camera - HD 1080P Wireless Camera - WiFi Camera with 240\u00b0 Ultra Wide Angle Lens - Supports WiFi Bluetooth connectivity.",
+    "price": "$89.99",
+    "total_reviews": "73",
+    "image_url": "https://m.media-amazon.com/images/I/41zdKu483LL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:54.401020"
+  },
+  {
+    "title": "Wearable Bluetooth Speaker-UPGRADED Longer Battery Life-20 Hours All-Day Playtime Clip On Wireless Jobsite Portable Speaker Mini, with Built-in Mic, 120dB Loud and 800mAh Battery, Yellow",
+    "price": "$59.99",
+    "total_reviews": "N/A (no review)",
+    "image_url": "https://m.media-amazon.com/images/I/71bIL94e3vL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:54.402348"
+  },
+  {
+    "title": "Bluetooth Speakers, Mechanical Crab Bluetooth Speaker, Portable Speakers with Multicolor LED, Bluetooth 5.0, 10W Stereo Sound, Deep Bass, Dual Pairing, 8H Playtime for Home, Party, Outdoor (Orange)",
+    "price": "$54.99",
+    "total_reviews": "20",
+    "image_url": "https://m.media-amazon.com/images/I/61GJcGVjaxL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:54.403409"
+  },
+  {
+    "title": "Herdio 4 Inches 200 Watts Outdoor Bluetooth Speakers, Bluetooth 5.3,TWS Stereo Paring,Wall Mount Speaker System Waterproof Suitable for Patio Home Poolside Deck Backyard (Pair, Black)",
+    "price": "$82.99",
+    "total_reviews": "7",
+    "image_url": "https://m.media-amazon.com/images/I/71c7dpj4gvL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:54.404798"
+  },
+  {
+    "title": "ZEALOT Bluetooth Speaker, Speakers Bluetooth Wireless,Outdoor,Portable Speaker,Loud with BassUp Technology,IPX6 Waterproof,20H Play,Pairing,EQ,TF,AUX,Speaker for Party,Beach,Camping-Black",
+    "price": "$75.99",
+    "total_reviews": "3,461",
+    "image_url": "https://m.media-amazon.com/images/I/81vguydUtKL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:54.406188"
+  },
+  {
+    "title": "Portable Bluetooth Party Speaker: 160W Peak Powerful Loud Sound Deep Bass Wireless Boombox Large Subwoofer 15 Hours Battery Life Fast Charging with Led Light Show for Outdoor Camping Backyard",
+    "price": "$139.99",
+    "total_reviews": "635",
+    "image_url": "https://m.media-amazon.com/images/I/71TB0jwZtAL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:45:54.407594"
+  },
+  {
+    "title": "USB Computer Speakers for Desktop Pc,Bluetooth PC Speakers with Headphone Output,2 Ways Connect USB Powered Wired Speakers for Windows,Linux,Mac Air/Pro Phones(USB-C to USB Adapter Included)",
+    "price": "$38.99",
+    "total_reviews": "298",
+    "image_url": "https://m.media-amazon.com/images/I/61mRj4Qg7DL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:46:01.924231"
+  },
+  {
+    "title": "Computer Speakers - Wired USB Powered Bluetooth Computer Sound Bar with RGB & Volume Knob, HiFi Stereo Portable Gaming Sound Bar Speaker for Desktop Monitor, PC, Laptop, Tablets, Mac Air/Pro",
+    "price": "$13.99",
+    "total_reviews": "245",
+    "image_url": "https://m.media-amazon.com/images/I/71lEiR40URL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:46:01.925815"
+  },
+  {
+    "title": "2025 Portable Bluetooth Speaker IPX7 Waterproof 20H Playtime for Camping BT5.3 Wireless Party Small Bluetooth Speaker Loud Easy Stereo Pairing for Outdoor Office Pink Gift",
+    "price": "$99.99",
+    "total_reviews": "N/A (no review)",
+    "image_url": "https://m.media-amazon.com/images/I/71HVMJ8gAyL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:46:01.927347"
+  },
+  {
+    "title": "Herdio 6.5 Inches Indoor Outdoor Bluetooth Speakers Waterproof Wired 400 Watts with Powerful Bass,2 Way Wall Mount Speakers All-Weather Durability for Patio Home Deck Porch Backyard(Pair,Withe)",
+    "price": "$104.39",
+    "total_reviews": "110",
+    "image_url": "https://m.media-amazon.com/images/I/61cRHdstacL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:46:01.928470"
+  },
+  {
+    "title": "DEWALT 2-in-1 Neckband Bluetooth Headphones w/Built-in Speakers, Jobsite Wearable Speaker & Around Neck Headphones, Wireless Bluetooth Headset, 60+ Hrs, Hands-Free Music & Calls (Black)",
+    "price": "$99.99",
+    "total_reviews": "949",
+    "image_url": "https://m.media-amazon.com/images/I/613964jPd3L._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:46:01.929611"
+  },
+  {
+    "title": "Wearable Bluetooth Speaker-UPGRADED Longer Battery Life-20 Hours All-Day Playtime Clip On Wireless Jobsite Portable Speaker Mini, with Built-in Mic, 120dB Loud and 800mAh Battery, Yellow",
+    "price": "$59.99",
+    "total_reviews": "N/A (no review)",
+    "image_url": "https://m.media-amazon.com/images/I/71bIL94e3vL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:46:01.930985"
+  },
+  {
+    "title": "SOPKVL Bluetooth Speaker Camera - HD 1080P Wireless Camera - WiFi Camera with 240\u00b0 Ultra Wide Angle Lens - Supports WiFi Bluetooth connectivity.",
+    "price": "$89.99",
+    "total_reviews": "73",
+    "image_url": "https://m.media-amazon.com/images/I/41zdKu483LL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:46:01.932066"
+  },
+  {
+    "title": "[1000 ANSI & Audio by DBX-TV] Alvar 4K Projector with WiFi 6 and Bluetooth, 30W Speakers, Netflix Certified & DoIby Audio Outdoor Proyector, Auto Focus Native 1080P Smart Projector, Black",
+    "price": "$199.99",
+    "total_reviews": "316",
+    "image_url": "https://m.media-amazon.com/images/I/81sJp2FA4yL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:46:01.933129"
+  },
+  {
+    "title": "Herdio 4 Inches 200 Watts Outdoor Bluetooth Speakers, Bluetooth 5.3,TWS Stereo Paring,Wall Mount Speaker System Waterproof Suitable for Patio Home Poolside Deck Backyard (Pair, Black)",
+    "price": "$82.99",
+    "total_reviews": "7",
+    "image_url": "https://m.media-amazon.com/images/I/71c7dpj4gvL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:46:01.934547"
+  },
+  {
+    "title": "Bluetooth Speakers, Mechanical Crab Bluetooth Speaker, Portable Speakers with Multicolor LED, Bluetooth 5.0, 10W Stereo Sound, Deep Bass, Dual Pairing, 8H Playtime for Home, Party, Outdoor (Orange)",
+    "price": "$54.99",
+    "total_reviews": "20",
+    "image_url": "https://m.media-amazon.com/images/I/61GJcGVjaxL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:46:01.935583"
+  },
+  {
+    "title": "Bluetooth Speaker with Deep Bass, 40W(Peak) Wireless Portable Speaker with TWS, AUX, TF Card, Stereo Sound Wood Home Audio Sync up to 100 Bluetooth 5.3 Speakers For Home Party, Outdoor Camping",
+    "price": "$79.99",
+    "total_reviews": "81",
+    "image_url": "https://m.media-amazon.com/images/I/717JqgVLkFL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:46:01.936999"
+  },
+  {
+    "title": "100W Powered Bluetooth Bookshelf Speakers,2.0 Wireless HiFi Speaker with Subwoofer and Led Light,Dynamic 3D Surround Sound,for Home Music,Vinyl Records, Home Theatre, Gaming,TV -Wood Grain",
+    "price": "$76.90",
+    "total_reviews": "31",
+    "image_url": "https://m.media-amazon.com/images/I/71iY7RPXefL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:46:01.938394"
+  },
+  {
+    "title": "Upgraded Outdoor Speakers Gift for Men Solar Rock Bluetooth Speakers (2 Pack, 48 W) \u2013 16 Hr Playtime, Bluetooth 5.4 TWS Stereo, Solar & USB\u2011C 2 Hr Fast\u2011Charge, Aluminum\u2011Alloy Mesh, IPX5 Waterproof",
+    "price": "$280.00",
+    "total_reviews": "19",
+    "image_url": "https://m.media-amazon.com/images/I/81B2xVLqTDL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:46:01.939451"
+  },
+  {
+    "title": "Herdio Bluetooth Ceiling Speakers Wired 4 Inches 2-Way with 4 Channel Amplifier Receiver for Home Theater Living Room Office(4 Speakers)",
+    "price": "$125.10",
+    "total_reviews": "N/A (no review)",
+    "image_url": "https://m.media-amazon.com/images/I/41kgt5eJNmL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:46:01.940731"
+  },
+  {
+    "title": "GoHawk TR4-Titan Motorcycle Bluetooth 4 Speakers Audio Stereo 4.1 Channel Waterproof Amplifier System 4\" Full Range Handlebar Mount MP3 Music Player for Harley ATV UTV FM Radio USB Black",
+    "price": "$199.99",
+    "total_reviews": "7",
+    "image_url": "https://m.media-amazon.com/images/I/71GafVoYtLL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:46:01.941768"
+  },
+  {
+    "title": "Portable Bluetooth Speaker Wireless, 15W HD Loud Sound with Cool Dazzling LED Lights, IPX4 Waterproof, BT5.3, TWS Surround Stereo Pairing, Small Speaker for Outdoor Party Home Camping, Ideal Gifts",
+    "price": "$69.99",
+    "total_reviews": "129",
+    "image_url": "https://m.media-amazon.com/images/I/71ipKz47WAL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:46:01.942808"
+  },
+  {
+    "title": "Sleep Headphones Bluetooth 5.2 Headband for Side Sleeper, 13 Hour Playtime, Wireless Headband Headphones with HD Stereo Speakers for Workout,Running,Yoga, Ideal Gifts for Men, Women, Teens, Purple",
+    "price": "$19.99",
+    "total_reviews": "N/A (no review)",
+    "image_url": "https://m.media-amazon.com/images/I/71N8sl1nfVL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:46:01.944220"
+  },
+  {
+    "title": "TOZO PM1 Wearable Speaker with Magnetic, Clip-On Wireless Water-Resistant Portable Bluetooth Speaker Built-in Mic for Hands-Free Music/Calls, 20 Hour Playtime Mini Gifts for Men and Women",
+    "price": "$59.99",
+    "total_reviews": "N/A (no review)",
+    "image_url": "https://m.media-amazon.com/images/I/71wObHJUHiL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:46:01.945556"
+  },
+  {
+    "title": "Neck Speakers, Bluetooth 5.3 Neckband Speakers, 3D Stereo Surround Sound, Built-in Mic, 5 oz, Black",
+    "price": "$39.95",
+    "total_reviews": "13",
+    "image_url": "https://m.media-amazon.com/images/I/51KfGZjEpcL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:46:01.946594"
+  },
+  {
+    "title": "Waterproof Bluetooth Speaker",
+    "price": "$29.99",
+    "total_reviews": "N/A (no review)",
+    "image_url": "https://m.media-amazon.com/images/I/41OsREdgciL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:46:01.947935"
+  },
+  {
+    "title": "EMEET Conference Speakerphone M0 Plus, 4 AI Mics 360\u00b0 Voice Pickup, Noise Reduction, USB C Speaker, Bluetooth Conference Speaker for 8 People w/Daisy Chain for 16 Compatible with Leading Software",
+    "price": "$57.99",
+    "total_reviews": "2,982",
+    "image_url": "https://m.media-amazon.com/images/I/71fUCtgWRfL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:46:01.949935"
+  },
+  {
+    "title": "Bluetooth Speakers, 80W(Peak) Wireless TWS Portable Bluetooth Speaker, Beat-Driven Lights, 100dB Loud Stereo Speaker with BassUp, Speakers with Subwoofer for Outdoor, Party, Camping",
+    "price": "$49.99",
+    "total_reviews": "1,418",
+    "image_url": "https://m.media-amazon.com/images/I/81oRzXfs2zL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:46:01.951356"
+  },
+  {
+    "title": "Karaoke Machine with 2 Wireless Microphones, Portable Karaoke Machine for Adults & Kids, PA System with LED Lights, Karaoke Bluetooth Speaker Supports for TF Card/USB, AUX in, FM, REC,TWS",
+    "price": "$69.59",
+    "total_reviews": "79",
+    "image_url": "https://m.media-amazon.com/images/I/81nvvEe3LjL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:46:10.301097"
+  },
+  {
+    "title": "STUDIOFINIX 800W 6.5 Inch Outdoor Bluetooth Speakers Waterproof Wired with Multifunctional Amplifier Wall Mount Weatherproof Loudspeaker System for Patio Garden Poolside Home(4 Speakers,Black)",
+    "price": "$203.99",
+    "total_reviews": "164",
+    "image_url": "https://m.media-amazon.com/images/I/91UQzrMnDuL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:46:10.302536"
+  },
+  {
+    "title": "Sony ULT Field 7 Wireless Bluetooth Party Speaker, IP67 Waterproof, Powerful Bass, 30h Battery, Karaoke, Comfortable Handle, and Colorful Lights (SRSULT70), Black + ULT MIC Wireless Microphone",
+    "price": "N/A (price not mentioned)",
+    "total_reviews": "N/A (no review)",
+    "image_url": "https://m.media-amazon.com/images/I/21QP6vYxoxL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:46:10.303799"
+  },
+  {
+    "title": "HyperGear Bluetooth Speaker with HD Sound, Portable Wireless, IPX4 Water-Resistant, 8H Non-Stop Playtime, TWS Pairing, BT5.4, for Home/Party/Outdoor/Beach/Birthday Gift",
+    "price": "$39.99",
+    "total_reviews": "N/A (no review)",
+    "image_url": "https://m.media-amazon.com/images/I/819ATqZAgtL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:46:10.305393"
+  },
+  {
+    "title": "Compact Wireless bass Speaker with Bluetooth, USB, and fm Radio Compatibility Black",
+    "price": "$17.49",
+    "total_reviews": "N/A (no review)",
+    "image_url": "https://m.media-amazon.com/images/I/51-pFG2kbcL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:46:10.306759"
+  },
+  {
+    "title": "Waterproof Bluetooth Speaker",
+    "price": "$29.99",
+    "total_reviews": "N/A (no review)",
+    "image_url": "https://m.media-amazon.com/images/I/41OsREdgciL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:46:10.308069"
+  },
+  {
+    "title": "Waterproof Bluetooth Speaker",
+    "price": "$29.99",
+    "total_reviews": "N/A (no review)",
+    "image_url": "https://m.media-amazon.com/images/I/41OsREdgciL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:46:10.309378"
+  },
+  {
+    "title": "Portable Bluetooth Speaker Wireless, Powerful Stereo Small Speaker, USB Rechargeable with AUX Input, IPX5 Waterproof, TWS Pairing, for Outdoor Home Travel Beach Shower, Electronics Gifts for Him Her",
+    "price": "$69.99",
+    "total_reviews": "N/A (no review)",
+    "image_url": "https://m.media-amazon.com/images/I/71cE1qs7KPL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:46:10.310707"
+  },
+  {
+    "title": "Sony SRS-XV500 Portable Bluetooth Karaoke Party Speaker & Karaoke Machine, 25-Hour Battery, Splash Resistant, Ambient Lights + ULT MIC Wireless Mic",
+    "price": "N/A (price not mentioned)",
+    "total_reviews": "N/A (no review)",
+    "image_url": "https://m.media-amazon.com/images/I/21XMdSn16TL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:46:10.312006"
+  },
+  {
+    "title": "Cell Phone Stand with Wireless Bluetooth Speaker, Foldable Induction Speaker Stand with Led Color Light and Power Bank, Cellphone Holder Compatible with iPhone Android, Gifts for Men",
+    "price": "$26.99",
+    "total_reviews": "N/A (no review)",
+    "image_url": "https://m.media-amazon.com/images/I/71cCoUhX3wL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:46:10.313334"
+  },
+  {
+    "title": "House of Marley Rise Up Solar Bluetooth Speaker, IP67 Waterproof, 14H Playtime, Solar Charging, Quick Charge, Eco-Friendly Recycled Materials, Bamboo Design & Bottle Opener (Signature Black)",
+    "price": "$119.99",
+    "total_reviews": "20",
+    "image_url": "https://m.media-amazon.com/images/I/71bucUZaUKL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:46:10.314732"
+  },
+  {
+    "title": "Inwa Wearable Bluetooth Speaker, Clip-on Wireless Portable Speakers, IP67 Waterproof Clip Speaker, Built-in Mic for Hands-Free Music/Calls, Mini Speaker for Work/Home/Outdoor(Yellow)",
+    "price": "$19.99",
+    "total_reviews": "61",
+    "image_url": "https://m.media-amazon.com/images/I/71tFSN7F7aL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:46:10.316245"
+  },
+  {
+    "title": "Bluetooth Portable Speaker - Black",
+    "price": "$38.99",
+    "total_reviews": "N/A (no review)",
+    "image_url": "https://m.media-amazon.com/images/I/51rEAHegN2L._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:46:10.317649"
+  },
+  {
+    "title": "Divoom Retro Pixel Bundle \u2013 Tiivoo Bluetooth Speaker + 65W GaN Charger with Custom Display | Pixel Art, Games, FM Radio & Fast Charging in One Stylish Set",
+    "price": "N/A (price not mentioned)",
+    "total_reviews": "N/A (no review)",
+    "image_url": "https://m.media-amazon.com/images/I/71pb0xkxxQL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:46:10.319001"
+  },
+  {
+    "title": "Divoom Retro Pixel Bundle \u2013 Tiivoo Bluetooth Speaker + 65W GaN Charger with Custom Display | Pixel Art, Games, FM Radio & Fast Charging in One Stylish Set",
+    "price": "N/A (price not mentioned)",
+    "total_reviews": "N/A (no review)",
+    "image_url": "https://m.media-amazon.com/images/I/71KCUYmyvEL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:46:10.320279"
+  },
+  {
+    "title": "Wearable Bluetooth Speaker with Built-in Microphone Wireless IPX6 Waterproof Clip-on Portable Sound Machine Up to 10H Music Call Time for Home Outdoor (Black/Yellow)",
+    "price": "$39.99",
+    "total_reviews": "N/A (no review)",
+    "image_url": "https://m.media-amazon.com/images/I/61xYYstqOqL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:46:10.321602"
+  },
+  {
+    "title": "Neckband Bluetooth Speaker, Wearable Wireless Speaker with Mic,78g Lightweight, 15 Hrs Playtime, Portable Speakers for Home, Office and Outdoors (Blue)",
+    "price": "$39.99",
+    "total_reviews": "N/A (no review)",
+    "image_url": "https://m.media-amazon.com/images/I/61fCotAEypL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:46:10.322941"
+  },
+  {
+    "title": "Divoom Sound & Style Bundle \u2013 Retro Tiivoo Pixel Speaker + Portable Itour-S Clip-on Speaker | Home & Outdoor Bluetooth Audio with Pixel Art Fun",
+    "price": "N/A (price not mentioned)",
+    "total_reviews": "N/A (no review)",
+    "image_url": "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_UY218_.gif",
+    "scraped_time": "2025-04-24T17:46:10.324196"
+  },
+  {
+    "title": "Divoom Sound & Style Bundle \u2013 Retro Tiivoo Pixel Speaker + Portable Itour-S Clip-on Speaker | Home & Outdoor Bluetooth Audio with Pixel Art Fun",
+    "price": "N/A (price not mentioned)",
+    "total_reviews": "N/A (no review)",
+    "image_url": "https://m.media-amazon.com/images/I/71nbrU1nSzL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:46:10.325440"
+  },
+  {
+    "title": "Portable Bluetooth Speakers Wireless,Shower Speaker Waterproof G200 Pro with Upgraded Bluetooth 5.4, Magnetic Phone Stand, Mini Outdoor Loudspeaker with RGB Light for Home/Travel/Bathroom-Black",
+    "price": "$20.99",
+    "total_reviews": "N/A (no review)",
+    "image_url": "https://m.media-amazon.com/images/I/6150oTMCCtL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:46:10.326805"
+  },
+  {
+    "title": "Computer Speakers for Desktop Pc, Monitor Speakers for Laptop,Pc Speakers with Loud Sound,Volume Control Easily Clamps to Monitors(USB-C to USB Adapter Included) (Black)",
+    "price": "$24.98",
+    "total_reviews": "903",
+    "image_url": "https://m.media-amazon.com/images/I/61YGZBC6HqL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:46:10.328213"
+  },
+  {
+    "title": "Karaoke Machine with 2 Wireless Microphones,Portable Bluetooth Karaoke Machine Adults&Kids,Karaoke Speaker with PA System,Singing Machine for TV Home Party Gifts Support AUX,USB,TF Card",
+    "price": "$16.99",
+    "total_reviews": "157",
+    "image_url": "https://m.media-amazon.com/images/I/7114Q9aDgUL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:46:10.329622"
+  },
+  {
+    "title": "Inwa Outdoor Bluetooth Speakers, Linkable Wireless Speaker Up to 100 Speakers, IPX5 Waterproof, Beat-Driven Light Show, Seamlessly to Phone, TV Box, Projector, Echo Dot, for Patio, Yard, Pool (2 PACK)",
+    "price": "$125.92",
+    "total_reviews": "90",
+    "image_url": "https://m.media-amazon.com/images/I/71Eh5VQBbfL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:46:17.481315"
+  },
+  {
+    "title": "Inwa Upgraded Bluetooth Outdoor Speakers, IPX5 Waterproof Wall Mount Speaker, Powerful Bass, Wireless Sync Up to 100 Speakers, Indoor/Outdoor Sound System for Patio/Porch/Gazebo/Garage(MZ-632, 2 PCS)",
+    "price": "$94.99",
+    "total_reviews": "21",
+    "image_url": "https://m.media-amazon.com/images/I/71K2KHrzrZL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:46:17.482870"
+  },
+  {
+    "title": "Mchoi Hard Storage Case for JBL Go 4 Go3 Go 3 Eco Waterproof Ultra Portable Bluetooth Speaker, Case Only, Purple",
+    "price": "$17.63",
+    "total_reviews": "N/A (no review)",
+    "image_url": "https://m.media-amazon.com/images/I/81TBz1zxmkL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:46:17.484214"
+  },
+  {
+    "title": "4-in-1 360\u00b0 Rotating Bluetooth Speaker Stand, Cell Phone Stand with Wireless Bluetooth Induction Speaker, Anti-Slip Base Hd Surround Sound, Cool Multi Functional Gadget Unique Gifts for Men (Black)",
+    "price": "N/A (price not mentioned)",
+    "total_reviews": "N/A (no review)",
+    "image_url": "https://m.media-amazon.com/images/I/61vNxGYkBJL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:46:17.485483"
+  },
+  {
+    "title": "Divoom Pixoo Pixel Art Display & Ditoo Pro Retro Bluetooth Speaker \u2013 Customizable Pixel Art, Bluetooth 5.0, for Creative Decor & Fun",
+    "price": "N/A (price not mentioned)",
+    "total_reviews": "N/A (no review)",
+    "image_url": "https://m.media-amazon.com/images/I/71GIaCZ4pOL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:46:17.486772"
+  },
+  {
+    "title": "Vinyl Record Player 3-Speed Extended-Sized Turntable with Built-in Speakers & Bluetooth, USB/SD Recording, EQ Mode & LED Display, Belt-Drive Brown Wood LP Player",
+    "price": "$69.99",
+    "total_reviews": "N/A (no review)",
+    "image_url": "https://m.media-amazon.com/images/I/71amgFl4mkL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:46:17.488156"
+  },
+  {
+    "title": "Portable Bluetooth Speaker Transformers Wireless Bluetooth 5.0 Dual Built-in Speaker with USB Charging Cable Small Subwoofer for Outdoor, Gift Ideas",
+    "price": "$24.97",
+    "total_reviews": "N/A (no review)",
+    "image_url": "https://m.media-amazon.com/images/I/61wwPsUGuxL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:46:17.489475"
+  },
+  {
+    "title": "Portable Bluetooth Speaker with Mesh Grille, Compact Design, Black",
+    "price": "N/A (price not mentioned)",
+    "total_reviews": "N/A (no review)",
+    "image_url": "https://m.media-amazon.com/images/I/61pMUDLtdZL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:46:17.490742"
+  },
+  {
+    "title": "Mchoi Hard Storage Case for JBL Go 4 Go3 Go 3 Eco Waterproof Ultra Portable Bluetooth Speaker, Case Only",
+    "price": "$17.43",
+    "total_reviews": "N/A (no review)",
+    "image_url": "https://m.media-amazon.com/images/I/713EBbAC0KL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:46:17.492076"
+  },
+  {
+    "title": "Mchoi Hard Storage Case for JBL Go 4 Go3 Go 3 Eco Waterproof Ultra Portable Bluetooth Speaker, Case Only, Blue",
+    "price": "$17.63",
+    "total_reviews": "N/A (no review)",
+    "image_url": "https://m.media-amazon.com/images/I/71ZjbloyH4L._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:46:17.493501"
+  },
+  {
+    "title": "Pyle Powered Bluetooth PA Speaker Kit - Event Ready - Just Plug In and Play Active and Passive 350w Loudspeakers with Wired Microphone, Speaker Stands, Remote - MP3/USB/SD/AUX inputs - PPHP849KT",
+    "price": "$217.99",
+    "total_reviews": "1,666",
+    "image_url": "https://m.media-amazon.com/images/I/81gMgyY5x4L._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:46:17.495027"
+  },
+  {
+    "title": "Raymate Bluetooth Speakers, 20W IPX7 Waterproof Speaker Wireless Bluetooth-V5.0, HiFi Stereo Sound, 1000mins Playtime, Portable Speaker for Home, Outdoor, Party",
+    "price": "$21.99",
+    "total_reviews": "1,629",
+    "image_url": "https://m.media-amazon.com/images/I/71G0o6lUMIL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:46:17.496577"
+  },
+  {
+    "title": "Bluetooth Speaker Alarm Clock, 15W Wireless Charger, Sunrise Simulation, Adjustable LED Night Light, Sleep Aid & Snooze, Loud Volume for Heavy Sleepers, Kids Bedroom, Gift",
+    "price": "$49.99",
+    "total_reviews": "N/A (no review)",
+    "image_url": "https://m.media-amazon.com/images/I/71MpHChZRCL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:46:17.498016"
+  },
+  {
+    "title": "SING F LTD Speaker Silicone Cover with Carabiner, Waterproof Ultra-Light Protective Sleeve Compatible with JBL GO4 Portable Bluetooth Speaker, Red",
+    "price": "$9.00",
+    "total_reviews": "N/A (no review)",
+    "image_url": "https://m.media-amazon.com/images/I/51mU-3AnKYL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:46:17.499360"
+  },
+  {
+    "title": "Mchoi Hard Storage Case for JBL Go 4 Go3 Go 3 Eco Waterproof Ultra Portable Bluetooth Speaker, Case Only, Red",
+    "price": "$17.63",
+    "total_reviews": "N/A (no review)",
+    "image_url": "https://m.media-amazon.com/images/I/71dG88AnktL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:46:17.500694"
+  },
+  {
+    "title": "LTGEM Hard Travel Carrying Case for Ultimate Ears MEGABOOM 3/4 Portable Wireless Bluetooth Speaker and Charger Dock, Purple",
+    "price": "$16.99",
+    "total_reviews": "N/A (no review)",
+    "image_url": "https://m.media-amazon.com/images/I/81bOLjsNiAL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:46:17.502038"
+  },
+  {
+    "title": "Jellyfish Lamp Bluetooth Speaker,12 White Noise LED Aquarium Night Light, 10 Color Changing 4 Lighting Modes,Mood Lamp for Home Office Sleep Relaxation, Gifts for Kids Children Adults,Home Decoration",
+    "price": "$34.99",
+    "total_reviews": "N/A (no review)",
+    "image_url": "https://m.media-amazon.com/images/I/81vLkMercBL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:46:17.503370"
+  },
+  {
+    "title": "Divoom Retro Pixel Bundle \u2013 Tiivoo Bluetooth Speaker + 65W GaN Charger with Custom Display | Pixel Art, Games, FM Radio & Fast Charging in One Stylish Set",
+    "price": "N/A (price not mentioned)",
+    "total_reviews": "N/A (no review)",
+    "image_url": "https://m.media-amazon.com/images/I/71dnVWnSAnL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:46:17.504625"
+  },
+  {
+    "title": "Smart Bluetooth Glasses, Featuring Open-Type Speakers and Blue Light Lenses, are Suitable for Making Phone Calls, Watching Videos, Listening to Music, Listening to podcasts and audiobooks.",
+    "price": "$29.99",
+    "total_reviews": "N/A (no review)",
+    "image_url": "https://m.media-amazon.com/images/I/51vck4oMH3L._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:46:17.505999"
+  },
+  {
+    "title": "\ud83d\udc53 Sun & Sound Smart Sunglasses Combine On Trend Classic Sunglasses with UV400 Protective Lenses and Built-In Bluetooth Premium Open Ear Speakers for Hands Free Communication - (SM-MED) SPORT/BLACK",
+    "price": "$20.95",
+    "total_reviews": "N/A (no review)",
+    "image_url": "https://m.media-amazon.com/images/I/61Hr96vkuUL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:46:17.507426"
+  },
+  {
+    "title": "Cassette Portable Bluetooth Speaker, 16W Minimalist Speakers Bluetooth Wireless Loud, HD Powerful Sound and Wide Compatibility V5.3 for Indoor Outdoor - Black",
+    "price": "$89.00",
+    "total_reviews": "64",
+    "image_url": "https://m.media-amazon.com/images/I/61xfeXQeKQL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:46:17.508990"
+  },
+  {
+    "title": "Klipsch Groove XL Portable Bluetooth Speaker",
+    "price": "$129.00",
+    "total_reviews": "169",
+    "image_url": "https://m.media-amazon.com/images/I/71fopAsRg5L._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:46:17.511059"
+  },
+  {
+    "title": "Bluetooth Speaker,MusiBaby Speakers Bluetooth Wireless,Waterproof,Outdoor,Portable Speaker with Stereo Sound,Booming Bass,Dual Pairing,Bluetooth 5.0,24H Play,Speaker for Home,Party,Travel,Gifts-Orange",
+    "price": "$25.35",
+    "total_reviews": "2,896",
+    "image_url": "https://m.media-amazon.com/images/I/7113halHSoL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:46:24.933179"
+  },
+  {
+    "title": "Inwa Outdoor Bluetooth Speakers, IPX5 Waterproof 400W Wall Mount Speaker, Powerful Indoor/Outdoor Sound System, Wireless Sync Up to 100 Speakers, Suitable for Patio/Porch/Gazebo/Garage(MZ-621, Pair)",
+    "price": "$129.99",
+    "total_reviews": "210",
+    "image_url": "https://m.media-amazon.com/images/I/81S7Sy6aPVL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:46:24.934628"
+  },
+  {
+    "title": "Silicone Case Compatible for FLIP 5 Portable Bluetooth Speaker, Gel Soft Skin Cover, Rubber Case, Travel Carry Pouch with Strap Not for Flip 6 (Speaker not Included (2 Pack)",
+    "price": "N/A (price not mentioned)",
+    "total_reviews": "N/A (no review)",
+    "image_url": "https://m.media-amazon.com/images/I/61lgF4Yt7ML._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:46:24.935915"
+  },
+  {
+    "title": "khanka for JBL Charge 6 Waterproof Portable Bluetooth Speaker Protective Case (Hard Case+Soft Silicone Case)",
+    "price": "N/A (price not mentioned)",
+    "total_reviews": "N/A (no review)",
+    "image_url": "https://m.media-amazon.com/images/I/71H2JKfHjyL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:46:24.937179"
+  },
+  {
+    "title": "khanka for JBL Charge 6 Waterproof Portable Bluetooth Speaker Protective Case (Hard Case+Soft Silicone Case)",
+    "price": "N/A (price not mentioned)",
+    "total_reviews": "N/A (no review)",
+    "image_url": "https://m.media-amazon.com/images/I/71nOCmIgaQL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:46:24.938441"
+  },
+  {
+    "title": "Silicone Case Compatible for FLIP 5 Portable Bluetooth Speaker, Gel Soft Skin Cover, Rubber Case, Travel Carry Pouch with Strap Not for Flip 6 (Speaker not Included (2 Pack)",
+    "price": "N/A (price not mentioned)",
+    "total_reviews": "N/A (no review)",
+    "image_url": "https://m.media-amazon.com/images/I/71vpsNNIE6L._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:46:24.939852"
+  },
+  {
+    "title": "\ud83d\udc53 Sun & Sound Smart Sunglasses Combine On Trend Classic Sunglasses with UV400 Protective Lenses and Built-In Bluetooth Premium Open Ear Speakers for Hands Free Communication - (SM-MED) SPORT/BLACK",
+    "price": "$20.95",
+    "total_reviews": "N/A (no review)",
+    "image_url": "https://m.media-amazon.com/images/I/61Hr96vkuUL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:46:24.941423"
+  },
+  {
+    "title": "khanka for JBL Charge 6 Waterproof Portable Bluetooth Speaker Protective Case (Hard Case+Soft Silicone Case)",
+    "price": "N/A (price not mentioned)",
+    "total_reviews": "N/A (no review)",
+    "image_url": "https://m.media-amazon.com/images/I/71uEzT1Y9IL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:46:24.942894"
+  },
+  {
+    "title": "Silicone Case Compatible for FLIP 5 Portable Bluetooth Speaker, Gel Soft Skin Cover, Rubber Case, Travel Carry Pouch with Strap Not for Flip 6 (Speaker not Included (2 Pack)",
+    "price": "N/A (price not mentioned)",
+    "total_reviews": "N/A (no review)",
+    "image_url": "https://m.media-amazon.com/images/I/71KRI9G2joL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:46:24.944259"
+  },
+  {
+    "title": "Silicone Case Compatible for FLIP 5 Portable Bluetooth Speaker, Gel Soft Skin Cover, Rubber Case, Travel Carry Pouch with Strap Not for Flip 6 (Speaker not Included (2 Pack)",
+    "price": "N/A (price not mentioned)",
+    "total_reviews": "N/A (no review)",
+    "image_url": "https://m.media-amazon.com/images/I/71yKqkba1jL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:46:24.945612"
+  },
+  {
+    "title": "Dosmix Retro Bluetooth Speaker, Vintage Decor, Mini Wireless Bluetooth Speaker, Cute Old Fashion Style for Kitchen Desk Bedroom Office Party Outdoor Accessories for iPhone Android (Green)",
+    "price": "$13.99",
+    "total_reviews": "5,212",
+    "image_url": "https://m.media-amazon.com/images/I/71axiGLkw1L._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:46:24.947147"
+  },
+  {
+    "title": "BUGANI Bluetooth Speaker, Portable Bluetooth Speakers with 40W Stereo Sound, Loud Bluetooth Speaker 24H Playtime Support TF Card/AUX, IPX6 Waterproof for Beach Camping Outdoor Indoor",
+    "price": "$39.99",
+    "total_reviews": "11,511",
+    "image_url": "https://m.media-amazon.com/images/I/81iIx6pAC8L._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:46:24.948675"
+  },
+  {
+    "title": "Silicone Case Compatible for FLIP 5 Portable Bluetooth Speaker, Gel Soft Skin Cover, Rubber Case, Travel Carry Pouch with Strap Not for Flip 6 (Speaker not Included (2 Pack)",
+    "price": "N/A (price not mentioned)",
+    "total_reviews": "N/A (no review)",
+    "image_url": "https://m.media-amazon.com/images/I/61gEEaivfEL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:46:24.950040"
+  },
+  {
+    "title": "Smart Glasses with Bluetooth Speaker - Polarized Sunglasses, UV Protection, Voice Control, Open Ear Audio, HD Microphone for Hands-Free Calls & Music - Lightweight Unisex Design (Black Lens)",
+    "price": "$35.99",
+    "total_reviews": "N/A (no review)",
+    "image_url": "https://m.media-amazon.com/images/I/51Qp9USLulL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:46:24.951452"
+  },
+  {
+    "title": "Silicone Case for JBL Charge 6 - Protection with Style for Your Bluetooth Speaker",
+    "price": "$19.99",
+    "total_reviews": "N/A (no review)",
+    "image_url": "https://m.media-amazon.com/images/I/71kiIw0T6wL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:46:24.952901"
+  },
+  {
+    "title": "MP3 & MP4 Player Case with Speaker Case Compatible with JBL Charge 6 Waterproof Bluetooth Speakers",
+    "price": "N/A (price not mentioned)",
+    "total_reviews": "N/A (no review)",
+    "image_url": "https://m.media-amazon.com/images/I/71lJqX8uIgL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:46:24.954251"
+  },
+  {
+    "title": "Cassette Portable Bluetooth Speaker, 16W Minimalist Speakers Bluetooth Wireless Loud, HD Powerful Sound and Wide Compatibility V5.3 for Indoor Outdoor - Black",
+    "price": "$89.00",
+    "total_reviews": "64",
+    "image_url": "https://m.media-amazon.com/images/I/61xfeXQeKQL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:46:24.955313"
+  },
+  {
+    "title": "Monster S110 Bluetooth Speaker, Portable Wireless Speaker with Pure Sound, IPX5 Waterproof, TWS Pairing, Small Size and Lightweight Speaker for Outdoor/Indoor/Mountain Climbing(Black)",
+    "price": "$145.70",
+    "total_reviews": "32",
+    "image_url": "https://m.media-amazon.com/images/I/810T-LxyhNL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:46:24.956438"
+  },
+  {
+    "title": "NOTABRICK Bluetooth Speakers, 15W Portable Speakers Bluetooth Wireless V5.0 with Stereo Sound, Active Extra Bass, IPX6 Waterproof Shower Speaker, Double Pairing, for Party, Home Theater, Game Theater",
+    "price": "$26.99",
+    "total_reviews": "908",
+    "image_url": "https://m.media-amazon.com/images/I/515NUPsZFZL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:46:24.957628"
+  },
+  {
+    "title": "Monster Boomerang Petite Neckband Bluetooth Speakers, Neck Speaker with 15H Playtime, aptX High Fidelity 3D Stereo Sound, Low Latency, Built-in Mic, IPX5 Waterproof Wearable for Home Outdoor",
+    "price": "$59.99",
+    "total_reviews": "606",
+    "image_url": "https://m.media-amazon.com/images/I/81cFcmF-SkL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:46:24.958769"
+  },
+  {
+    "title": "Karaoke Machine with 2 Wireless Microphones, Portable 5.0 Bluetooth Speaker for Adults & Kids, with 50W Speaker,Handle &RGB Lights, Supports TF Card/USB/Aux in/TWS,for Home,Party,Performance,Meeting",
+    "price": "$59.90",
+    "total_reviews": "83",
+    "image_url": "https://m.media-amazon.com/images/I/71CwMsp4IVL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:46:24.960292"
+  },
+  {
+    "title": "SPS-1000-WH Dual Bluetooth Indoor & Outdoor Loudspeaker Pair, White",
+    "price": "$169.99",
+    "total_reviews": "3",
+    "image_url": "https://m.media-amazon.com/images/I/91S3BMoUMKL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:46:24.961722"
+  },
+  {
+    "title": "SW102 Computer Speakers, 5Wx2, Deep Bass in Small Body, Stereo 2.0 USB Powered 3.5mm Aux Multimedia Speakers, Built-in Bottom Bass Radiators, PC Laptop Desktop Speakers, White",
+    "price": "$29.99",
+    "total_reviews": "12,260",
+    "image_url": "https://m.media-amazon.com/images/I/71yxpolOV0L._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:46:32.534866"
+  },
+  {
+    "title": "Cyber Acoustics USB & Bluetooth Speaker Bar (CA-2890BT) \u2013 USB Powered Speaker with Speakerphone for PC and Bluetooth to Simultaneously Connect to Smartphones, Clamps to Monitor, Convenient Controls",
+    "price": "$29.99",
+    "total_reviews": "2,531",
+    "image_url": "https://m.media-amazon.com/images/I/61UAjKnSuSL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:46:32.536418"
+  },
+  {
+    "title": "Marshall Willen Portable Bluetooth Speaker - Black & Brass",
+    "price": "N/A (price not mentioned)",
+    "total_reviews": "1,602",
+    "image_url": "https://m.media-amazon.com/images/I/61XHgHvPiPL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:46:32.537755"
+  },
+  {
+    "title": "TIMU Wireless Portable Speaker, IPX7 Waterproof Bluetooth Speaker, 25W Loud Stereo Sound, 30H Playtime, 3 Colorful RGB Lights, 3 EQ Mode, TWS Pairing, Bluetooth 5.3 for Outdoor/Home/Party, Gift Ideas",
+    "price": "$59.99",
+    "total_reviews": "N/A (no review)",
+    "image_url": "https://m.media-amazon.com/images/I/71GdKDNuvFL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:46:32.539199"
+  },
+  {
+    "title": "Wireless Portable Speaker, IPX7 Waterproof Bluetooth Speaker, 30W Loud Stereo Sound, 30H Playtime, 3 Colorful RGB Lights, 3 EQ Mode, TWS Pairing, Bluetooth 5.3 for Outdoor/Home/Party, Gift Ideas",
+    "price": "$39.99",
+    "total_reviews": "165",
+    "image_url": "https://m.media-amazon.com/images/I/81fM9nDCxsL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:46:32.540339"
+  },
+  {
+    "title": "AIWA Exos Home Speaker, Premium 30W RMS Sound System with CD Player, Bluetooth Connectivity, FM Radio, Optical Digital Input, Dual 1\u201d Tweeters + Dual 2\u201d Bass Units, IR Remote Control",
+    "price": "$137.02",
+    "total_reviews": "659",
+    "image_url": "https://m.media-amazon.com/images/I/71hgNEg-n-L._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:46:32.541684"
+  },
+  {
+    "title": "UGREEN Bluetooth 5.4 Transmitter Receiver, Dual Pairs 3.5mm Audio Aux Adapter with Built-in Microphone for Hands-Free Calls, 2-in-1 Wireless Bluetooth Adapter Compatible with Car Speakers Home Stereo",
+    "price": "$19.99",
+    "total_reviews": "108",
+    "image_url": "https://m.media-amazon.com/images/I/51uxjYKjlQL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:46:32.542963"
+  },
+  {
+    "title": "Accessonico Under Pillow Speaker Bluetooth for Sleeping Private Blue Tooth",
+    "price": "$14.99",
+    "total_reviews": "N/A (no review)",
+    "image_url": "https://m.media-amazon.com/images/I/4144a9aGM6L._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:46:32.544404"
+  },
+  {
+    "title": "64GB Bluetooth MP3 Player for Kids, White Noise Machine for Sleep Baby, Cute Panda Portable Music Player with Speaker, 18 Soothing Sounds, Voice Recorder, FM Radio, Child Digital Audio Players",
+    "price": "N/A (price not mentioned)",
+    "total_reviews": "N/A (no review)",
+    "image_url": "https://m.media-amazon.com/images/I/61K7AwYu4ZL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:46:32.545763"
+  },
+  {
+    "title": "Bitty Boomers Mattel: Barbie - Barbie California Dream - Bitty Box 1.3 Inch Keychain Bluetooth Speaker",
+    "price": "$12.99",
+    "total_reviews": "N/A (no review)",
+    "image_url": "https://m.media-amazon.com/images/I/61Vr0Np451L._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:46:32.547342"
+  },
+  {
+    "title": "Pyle Wireless Portable Bluetooth Boombox Speaker - Rechargeable Boom Box Speaker Portable Music Barrel Loud Stereo System with AUX Input, MP3/USB/SD Port, Fm Radio, 2.5\" Tweeter PBMSPG3BK",
+    "price": "$40.96",
+    "total_reviews": "3,231",
+    "image_url": "https://m.media-amazon.com/images/I/71Wg6PC3jiL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:46:32.548851"
+  },
+  {
+    "title": "Pyle Wall Mount Bluetooth Home Speaker System - Active + Passive Pair, Wireless, Water-resistant, Stereo Sound, AUX IN (White)",
+    "price": "$129.99",
+    "total_reviews": "1,202",
+    "image_url": "https://m.media-amazon.com/images/I/91zrw7DNFfL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:46:32.550290"
+  },
+  {
+    "title": "STUDIOFINIX 6.5 Inch Max 800W Outdoor Bluetooth Speakers Waterproof Wired with Multifunctional Amplifier Wall Mount Outdoor Speaker System for Patio Garden Poolside Home(4 Speakers,Black)",
+    "price": "$169.09",
+    "total_reviews": "10",
+    "image_url": "https://m.media-amazon.com/images/I/711pdF59GmL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:46:32.551338"
+  },
+  {
+    "title": "Pyle Waterproof Wall Mount Speaker System - 5.25 Inch Active + Passive Pair Wireless Bluetooth Compatible Indoor/Outdoor Stereo Sound Set with AUX IN - Pyle PDWR52BTBK (Black)",
+    "price": "$128.78",
+    "total_reviews": "1,561",
+    "image_url": "https://m.media-amazon.com/images/I/81r8u3KedRL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:46:32.552390"
+  },
+  {
+    "title": "Sonos Era 100 - Black - Wireless, Alexa Enabled Smart Speaker",
+    "price": "N/A (price not mentioned)",
+    "total_reviews": "1,345",
+    "image_url": "https://m.media-amazon.com/images/I/71fAeaUTNvL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:46:32.554238"
+  },
+  {
+    "title": "BOSS Audio Systems ASK904B.64 Marine Boat 6.5 inch Speakers and 4 Channel Amplifier - 500 High Output, Bluetooth Remote, USB and Auxiliary, Waterproof Pouch",
+    "price": "$168.20",
+    "total_reviews": "597",
+    "image_url": "https://m.media-amazon.com/images/I/81-CElty91L._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:46:32.555288"
+  },
+  {
+    "title": "Portable Wireless Bluetooth Speakers, Outdoor Sports Speakers with Bluetooth 5.0, IPX5 Waterproof, 3D Stereo, 8 Hours Playback time, with HD Sound for Pool, Beach, Bike, Travel",
+    "price": "$90.00",
+    "total_reviews": "1",
+    "image_url": "https://m.media-amazon.com/images/I/61UxSuugoDL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:46:32.556314"
+  },
+  {
+    "title": "Mini Karaoke Machine, Portable Bluetooth Speaker with 2 Wireless Karaoke Microphones",
+    "price": "$8.99",
+    "total_reviews": "N/A (no review)",
+    "image_url": "https://m.media-amazon.com/images/I/714ChTH84tL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:46:32.557682"
+  },
+  {
+    "title": "LENRUE Small Portable Bluetooth Speaker with Lights, TWS Stereo Surround Sound, Type C Powered, Bluetooth 5.3, AUX TF Card Input, Wireless for Outdoor Home, Coolest Gifts (Blue)",
+    "price": "$9.49",
+    "total_reviews": "11",
+    "image_url": "https://m.media-amazon.com/images/I/71H2UzelpoL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:46:32.558815"
+  },
+  {
+    "title": "GravaStar Mars Pro Portable Bluetooth Speaker, Deep Bass Loud Stereo Sound, 15H Playtime, 6 RGB Lights, Dual Pairing, Portable for Home, Outdoors, Party, Camping, Home, Gifts",
+    "price": "$199.95",
+    "total_reviews": "333",
+    "image_url": "https://m.media-amazon.com/images/I/61ovB-FI0QL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:46:32.559948"
+  },
+  {
+    "title": "SOLOS Smart Glasses AirGo\u2122 3 Argon 7 | Shiny Black | Powered by ChatGPT | Stereo Speakers | Blue Light Blocking | Bluetooth | USB C Charging | Compatible with iOS and Android",
+    "price": "$249.00",
+    "total_reviews": "N/A (no review)",
+    "image_url": "https://m.media-amazon.com/images/I/51NRs3mGaeL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:46:32.561783"
+  },
+  {
+    "title": "Bluetooth Speaker, Portable Wireless, IPX5 Waterproof Speaker, Bluetooth 5, RGB Color Lights, Loud Stereo Sound, Bass, TWS Pairing, Suitable for Party, Home, Outdoor Use for Long Time Playing.",
+    "price": "$8.99",
+    "total_reviews": "92",
+    "image_url": "https://m.media-amazon.com/images/I/711BoRc+T1L._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:46:32.563258"
+  },
+  {
+    "title": "Wearable Bluetooth 5.4 Speaker with Up to 30 Hours Battery Life, Clip-On Speaker, IPX6 Wateproof, Built-in Noise Cancelling Mic for Crystal Clear Calls Premium Audio",
+    "price": "$29.99",
+    "total_reviews": "54",
+    "image_url": "https://m.media-amazon.com/images/I/71CTk489R+L._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:46:40.868751"
+  },
+  {
+    "title": "Computer Gaming Speaker System with Subwoofer, PC Desktop Monitor Surround Sound, Two Satellite with Midrange and Treble, Full Range Coverage, Support Optical/Coaxial/3.5 to RCA/Wireless Connection",
+    "price": "N/A (price not mentioned)",
+    "total_reviews": "45",
+    "image_url": "https://m.media-amazon.com/images/I/71dDrQBpMKL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:46:40.870210"
+  },
+  {
+    "title": "64GB Bluetooth MP3 Player for Kids, White Noise Machine for Sleep Baby, Cute Panda Portable Music Player with Speaker, 18 Soothing Sounds, Voice Recorder, FM Radio, Child Digital Audio Players",
+    "price": "N/A (price not mentioned)",
+    "total_reviews": "N/A (no review)",
+    "image_url": "https://m.media-amazon.com/images/I/61K7AwYu4ZL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:46:40.871506"
+  },
+  {
+    "title": "Bitty Boomers Mattel: Barbie - Barbie California Dream - Bitty Box 1.3 Inch Keychain Bluetooth Speaker",
+    "price": "$12.99",
+    "total_reviews": "N/A (no review)",
+    "image_url": "https://m.media-amazon.com/images/I/61Vr0Np451L._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:46:40.872990"
+  },
+  {
+    "title": "STUDIOFINIX 6.5 Inch Max 800W Outdoor Bluetooth Speakers Waterproof Wired with Multifunctional Amplifier Wall Mount Outdoor Speaker System for Patio Garden Poolside Home(4 Speakers,Black)",
+    "price": "$169.09",
+    "total_reviews": "10",
+    "image_url": "https://m.media-amazon.com/images/I/711pdF59GmL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:46:40.874097"
+  },
+  {
+    "title": "Pyle Waterproof Wall Mount Speaker System - 5.25 Inch Active + Passive Pair Wireless Bluetooth Compatible Indoor/Outdoor Stereo Sound Set with AUX IN - Pyle PDWR52BTBK (Black)",
+    "price": "$128.78",
+    "total_reviews": "1,561",
+    "image_url": "https://m.media-amazon.com/images/I/81r8u3KedRL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:46:40.875241"
+  },
+  {
+    "title": "Sonos Era 100 - Black - Wireless, Alexa Enabled Smart Speaker",
+    "price": "N/A (price not mentioned)",
+    "total_reviews": "1,345",
+    "image_url": "https://m.media-amazon.com/images/I/71fAeaUTNvL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:46:40.877243"
+  },
+  {
+    "title": "BOSS Audio Systems ASK904B.64 Marine Boat 6.5 inch Speakers and 4 Channel Amplifier - 500 High Output, Bluetooth Remote, USB and Auxiliary, Waterproof Pouch",
+    "price": "$168.20",
+    "total_reviews": "597",
+    "image_url": "https://m.media-amazon.com/images/I/81-CElty91L._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:46:40.878360"
+  },
+  {
+    "title": "Portable Wireless Bluetooth Speakers, Outdoor Sports Speakers with Bluetooth 5.0, IPX5 Waterproof, 3D Stereo, 8 Hours Playback time, with HD Sound for Pool, Beach, Bike, Travel",
+    "price": "$90.00",
+    "total_reviews": "1",
+    "image_url": "https://m.media-amazon.com/images/I/61UxSuugoDL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:46:40.879392"
+  },
+  {
+    "title": "Mini Karaoke Machine, Portable Bluetooth Speaker with 2 Wireless Karaoke Microphones",
+    "price": "$8.99",
+    "total_reviews": "N/A (no review)",
+    "image_url": "https://m.media-amazon.com/images/I/714ChTH84tL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:46:40.880783"
+  },
+  {
+    "title": "SUPERONE 2025 Upgrade Wearable Bluetooth Speaker with Voice Assistant & Mic, IPX7 Waterproof Clip-on Portable Speaker, TWS Pairing, Up to 30H of Play, Supports Siri/Google/Alexa",
+    "price": "$19.99",
+    "total_reviews": "63",
+    "image_url": "https://m.media-amazon.com/images/I/71ONujVKJxL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:46:40.882192"
+  },
+  {
+    "title": "Klipsch The Austin Portable Bluetooth Speaker with a 1.5\" Full Range Driver, IP67 dust and Waterproof Rating, 12 Hours of Playtime for a Premium Live Concert Experience",
+    "price": "$65.00",
+    "total_reviews": "161",
+    "image_url": "https://m.media-amazon.com/images/I/71Ph3IgL8tL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:46:40.883602"
+  },
+  {
+    "title": "LENRUE Small Portable Bluetooth Speaker with Lights, TWS Stereo Surround Sound, Type C Powered, Bluetooth 5.3, AUX TF Card Input, Wireless for Outdoor Home, Coolest Gifts (Blue)",
+    "price": "$9.49",
+    "total_reviews": "11",
+    "image_url": "https://m.media-amazon.com/images/I/71H2UzelpoL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:46:40.884654"
+  },
+  {
+    "title": "GravaStar Mars Pro Portable Bluetooth Speaker, Deep Bass Loud Stereo Sound, 15H Playtime, 6 RGB Lights, Dual Pairing, Portable for Home, Outdoors, Party, Camping, Home, Gifts",
+    "price": "$199.95",
+    "total_reviews": "333",
+    "image_url": "https://m.media-amazon.com/images/I/61ovB-FI0QL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:46:40.885711"
+  },
+  {
+    "title": "DOSS Extreme Boom Outdoor Bluetooth Speaker Bundle Extreme Boom Pro D100 Bluetooth Speaker",
+    "price": "N/A (price not mentioned)",
+    "total_reviews": "N/A (no review)",
+    "image_url": "https://m.media-amazon.com/images/I/71lfc3aFI2L._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:46:40.886974"
+  },
+  {
+    "title": "DOSS SoundBox Pro Bluetooth Speaker with 20W Stereo Sound, Active Extra Bass, 20H Playtime, IPX6 Waterproof, TWS Pairing, Multi-Colors Lights, Portable for Hiking, Camping, Beach, Outdoor, Party-Black",
+    "price": "$39.98",
+    "total_reviews": "24,723",
+    "image_url": "https://m.media-amazon.com/images/I/81n7KAYovTL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:46:40.888024"
+  },
+  {
+    "title": "JBL Professional IRX108BT Powered PA Speaker, Portable Loudspeaker with Bluetooth, 8 Inch Woofer, 1300 Watt, Mobile DJ, Musicians, Small Venues, Ceremonies and Sports Events, Black",
+    "price": "N/A (price not mentioned)",
+    "total_reviews": "413",
+    "image_url": "https://m.media-amazon.com/images/I/81z5499-+5L._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:46:40.889776"
+  },
+  {
+    "title": "Karaoke Machine, Portable Bluetooth Karaoke Speaker with 2 Wireless Microphones, PA System for Adults Kids with LED Lights, Supports REC/FM/AUX/USB/TF for Home Party",
+    "price": "$64.98",
+    "total_reviews": "1,630",
+    "image_url": "https://m.media-amazon.com/images/I/81swr8ybCQL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:46:40.891027"
+  },
+  {
+    "title": "Portable Bluetooth Speaker with LED Light Ring, Black/Blue/Red/Gold, Compact Wireless Design (Gold)",
+    "price": "$10.79",
+    "total_reviews": "N/A (no review)",
+    "image_url": "https://m.media-amazon.com/images/I/51VU6WVTKbL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:46:40.892381"
+  },
+  {
+    "title": "Fosi Audio BT20A Bluetooth Stereo Amplifier, 2 Channel Home Audio Component Amplifiers for Passive Speakers, Mini Class D Amp Receiver 200W for Indoor/Outdoor/Garage/Ceiling/Bookshelf Speaker",
+    "price": "$79.99",
+    "total_reviews": "8,836",
+    "image_url": "https://m.media-amazon.com/images/I/61+cd+AMZcL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:46:40.893444"
+  },
+  {
+    "title": "AK45 Stereo Audio Amplifier,300W Home 2 Channel Wireless Bluetooth 5.0 Power Amplifier System, Home Amplifiers FM Radio, USB, SD Card, with Remote Control Home Theater Audio Stereo System",
+    "price": "$39.99",
+    "total_reviews": "2,034",
+    "image_url": "https://m.media-amazon.com/images/I/71v1Rl3RBUL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:46:40.895093"
+  },
+  {
+    "title": "S49 Portable Speaker Wirless Bluetooth Speaker Stereo Sound with Deep Bass IPX7 Waterproof, 20W, RGB Light, Support USB TF Card for Home Outdoor Beach (Black)",
+    "price": "$14.99",
+    "total_reviews": "45",
+    "image_url": "https://m.media-amazon.com/images/I/7153eQogxyL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:46:40.896505"
+  },
+  {
+    "title": "LENRUE Computer Speaker, 10W PC Speaker for Desktop/Laptop,Sound bar Desktop Speaker with Clear Sound,USB Powered and 3.5 AUX-in,Plug-N-Play (Black)",
+    "price": "$13.99",
+    "total_reviews": "218",
+    "image_url": "https://m.media-amazon.com/images/I/71TtlfL3x-L._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:46:48.595870"
+  },
+  {
+    "title": "70W Powered Bookshelf Speakers, Active Stereo Speakers Pair Desktop Studio Monitor Speakers Wired Optical/ARC/RCA/AUX/BT Input for Turntable Vinyl Record Player Home Audio TV Gaming PC-Black",
+    "price": "$86.99",
+    "total_reviews": "78",
+    "image_url": "https://m.media-amazon.com/images/I/71qPz7dqsEL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:46:48.597297"
+  },
+  {
+    "title": "Active Bookshelf Speakers 36W RMS - BT 5.4 Wireless Speaker with 5 Inch Woofer, Silk Dome Tweeter PC Speakers - USB Digital Audio Studio Monitors Bass & Treble Adjust AUX Input for Record Player TV",
+    "price": "$89.99",
+    "total_reviews": "151",
+    "image_url": "https://m.media-amazon.com/images/I/71mudJpItuL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:46:48.598571"
+  },
+  {
+    "title": "Victrola Nostalgic 6-in-1 Bluetooth Record Player & Multimedia Center with Built-in Speakers - 3-Speed Turntable, CD & Cassette Player, FM Radio | Wireless Music Streaming | Mahogany",
+    "price": "$93.70",
+    "total_reviews": "24,971",
+    "image_url": "https://m.media-amazon.com/images/I/71ANQU5q-gL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:46:48.599807"
+  },
+  {
+    "title": "ZEXMTE Gaming USB Bluetooth 5.3 Adapter for PS5\uff0cLow Latency BT90 Bluetooth Adapter for PS5/PS4/Switch, Wireless Audio Dongle Transmitter for Headphones, Earbuds, Speaker",
+    "price": "$29.99",
+    "total_reviews": "N/A (no review)",
+    "image_url": "https://m.media-amazon.com/images/I/51DXl88DpbL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:46:48.601279"
+  },
+  {
+    "title": "BUGANI Bluetooth Speakers, Party Plus Wireless Portable Speaker, 60W Big Power Dual Pairing True Wireless Stereo Sound, 30H Playtime, Suitable for Party, Outdoor Speaker",
+    "price": "$49.99",
+    "total_reviews": "9",
+    "image_url": "https://m.media-amazon.com/images/I/81RYzsh1dgL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:46:48.602377"
+  },
+  {
+    "title": "400W Outdoor Bluetooth Speakers, Wireless Sync Between Speakers, IPX5 Waterproof, Powerful Bass, Wall Mount for Patio, Porch, Gazebo, Garage, 2-Pack, White(MZ-621)",
+    "price": "$134.98",
+    "total_reviews": "40",
+    "image_url": "https://m.media-amazon.com/images/I/81nGHEa5pgL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:46:48.603444"
+  },
+  {
+    "title": "INSMY C12 IPX7 Waterproof Shower Bluetooth Speaker, Portable Small Speaker, Speakers Bluetooth Wireless Loud Clear Sound Support TF Card Suction Cup for Kayak Canoe Beach Gift (Black)",
+    "price": "$21.59",
+    "total_reviews": "25,973",
+    "image_url": "https://m.media-amazon.com/images/I/81iO98sgTsL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:46:48.604499"
+  },
+  {
+    "title": "Bluetooth Speakers,Speakers Bluetooth Wireless,10W Portable Wireless Speaker,Louder Volume, Extra Bass, Stereo Sound, IPX5,Wireless Speaker for Home, Outdoor, Travel(Brown)",
+    "price": "$15.99",
+    "total_reviews": "46",
+    "image_url": "https://m.media-amazon.com/images/I/71BOJwx7TML._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:46:48.605521"
+  },
+  {
+    "title": "Portable Bluetooth Speaker, HD Stereo Sound, Small Wireless Speakers with Lights, TWS Pairing, IPX4 Waterproof, BT5.3 with AUX Port, for Camping Outdoor Party, Ideal Electronics Gifts",
+    "price": "$79.99",
+    "total_reviews": "2",
+    "image_url": "https://m.media-amazon.com/images/I/71MJAtfNajL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:46:48.606565"
+  },
+  {
+    "title": "AFK Computer Speakers, Computer Sound Bar with RGB Lights, USB Powered PC Speakers with Stereo Sound, Bluetooth 5.1 and 3.5mm Aux-in,Gaming Speakers for Desktop",
+    "price": "$39.99",
+    "total_reviews": "488",
+    "image_url": "https://m.media-amazon.com/images/I/6169ZN53V1L._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:46:48.607967"
+  },
+  {
+    "title": "Jeecoo M20 Bluetooth Computer Speakers for PC Desktop Monitor, Gaming PC Sound Bar - Wired USB-Powered, Superb Stereo Sound, with LED Lighting - Combine/Separate to Customize Your Desk",
+    "price": "$16.98",
+    "total_reviews": "3,650",
+    "image_url": "https://m.media-amazon.com/images/I/61dAwbQwDpL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:46:48.609376"
+  },
+  {
+    "title": "TREBLAB HD77 Bluetooth Speaker - Powerful 360\u00b0 Sound with Impactful Bass, 30W Portable Wireless Audio, 20H Battery, IPX7 Waterproof, TWS Stereo, Shockproof Design for Outdoor, Beach, Pool, Jobsite",
+    "price": "N/A (price not mentioned)",
+    "total_reviews": "15,312",
+    "image_url": "https://m.media-amazon.com/images/I/81EV-DeE0FL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:46:48.610879"
+  },
+  {
+    "title": "2.0 CH Dolby Digital Sound Bar - Bluetooth Home Theater Speaker with HDMI ARC, Optical, Aux for Smart TV, Gaming, PC & Projector, Compact Speaker Bar with 3D Surround Sound Home Theater Soundbar",
+    "price": "$79.99",
+    "total_reviews": "13",
+    "image_url": "https://m.media-amazon.com/images/I/61Db8m0l5IL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:46:48.611906"
+  },
+  {
+    "title": "Portable Bluetooth Speaker, Small Speakers Bluetooth Wireless, IPX7 Waterproof Speaker Suitable for in Bathroom, Pools, Boating and Hiking Black",
+    "price": "$8.99",
+    "total_reviews": "11",
+    "image_url": "https://m.media-amazon.com/images/I/71nlH+zELxL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:46:48.612956"
+  },
+  {
+    "title": "JBL Clip 4 - Portable Bluetooth speaker with a built-in battery, IP67 waterproof and dustproof, Compact size and great sound. - Black",
+    "price": "$44.50",
+    "total_reviews": "7,346",
+    "image_url": "https://m.media-amazon.com/images/I/61PGM62bkYL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:46:48.614003"
+  },
+  {
+    "title": "Karaoke Machine, Portable Bluetooth Speaker with 2 Wireless Karaoke Microphones, Karaoke Machine for Adults Kids with Upgraded Subwoofer, PA System, Support TWS/TF/USB/AUX for Home Party Outdoor",
+    "price": "$49.99",
+    "total_reviews": "258",
+    "image_url": "https://m.media-amazon.com/images/I/71sb5ust+DL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:46:48.615051"
+  },
+  {
+    "title": "Carrying & Protective Case for Digital Camera Pink with Speaker Case Compatible with JBL Charge 6 Waterproof Bluetooth Speakers",
+    "price": "N/A (price not mentioned)",
+    "total_reviews": "N/A (no review)",
+    "image_url": "https://m.media-amazon.com/images/I/715MeIaxl7L._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:46:48.616309"
+  },
+  {
+    "title": "Toothbrush Travel Case with Speaker Case Compatible with JBL Charge 6 Waterproof Bluetooth Speakers",
+    "price": "N/A (price not mentioned)",
+    "total_reviews": "N/A (no review)",
+    "image_url": "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_UY218_.gif",
+    "scraped_time": "2025-04-24T17:46:48.617631"
+  },
+  {
+    "title": "Vlogging Camera Case with Speaker Case Compatible with JBL Charge 6 Waterproof Bluetooth Speakers",
+    "price": "N/A (price not mentioned)",
+    "total_reviews": "N/A (no review)",
+    "image_url": "https://m.media-amazon.com/images/I/71Qii1rsVqL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:46:48.618912"
+  },
+  {
+    "title": "Computer Speakers, Desktop Speakers with 6 Colorful RGB Lights, Headphone Jack, Enhanced Bass and Volume Control, PC Speakers USB Powered & 3.5mm Aux Gaming Speakers for Laptop Monitor PC Tablet Phone",
+    "price": "$12.99",
+    "total_reviews": "183",
+    "image_url": "https://m.media-amazon.com/images/I/71xHmpVYpDL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:46:48.620332"
+  },
+  {
+    "title": "Computer Speakers for Desktop Monitor,Single Speakers for Desktop PC,Laptop Speaker with Loud Sound,Volume Control Easily Clamps to Monitors(USB-C to USB Adapter Included) (Black)",
+    "price": "$22.99",
+    "total_reviews": "1,845",
+    "image_url": "https://m.media-amazon.com/images/I/61rMZTSblQL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:46:48.621749"
+  },
+  {
+    "title": "EMEET USB Speakerphone, M1A Zoom Certified AI Mics 360\u00b0Voice Pickup USB Type C-A Plug&Play Computer Speakers with Microphone, Fast Mute Noise Reduction Echo Cancellation for 5-8 People for Zoom Teams",
+    "price": "$69.99",
+    "total_reviews": "2,982",
+    "image_url": "https://m.media-amazon.com/images/I/81kjKi4Sv7L._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:46:55.442937"
+  },
+  {
+    "title": "Cyber Acoustics USB Speaker Bar (CA-2890) \u2013 Stereo USB Powered Speaker, Easily Clamps to Monitor, Convenient Controls",
+    "price": "$22.99",
+    "total_reviews": "2,531",
+    "image_url": "https://m.media-amazon.com/images/I/61-OqSmwfKL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:46:55.444487"
+  },
+  {
+    "title": "Carrying & Protective Case for Digital Camera with Speaker Case for JBL Charge 6 Waterproof Bluetooth Speakers - 2 Pack",
+    "price": "N/A (price not mentioned)",
+    "total_reviews": "N/A (no review)",
+    "image_url": "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_UY218_.gif",
+    "scraped_time": "2025-04-24T17:46:55.445828"
+  },
+  {
+    "title": "LENRUE Bluetooth Speaker, Wireless Portable Speaker with Loud Stereo Sound, Rich Bass, 12-Hour Playtime, Built-in Mic. Perfect for iPhone, Samsung and More",
+    "price": "$15.99",
+    "total_reviews": "10,057",
+    "image_url": "https://m.media-amazon.com/images/I/81eBm834zEL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:46:55.446917"
+  },
+  {
+    "title": "Bluetooth Speaker, 60W(Peak) Wireless Portable Bluetooth Speakers, Beat-Driven Lights, Loud Stereo Small Party Speaker with Double Woofer, Speakers with Two Microphone for Outdoor, Garage, Camping",
+    "price": "$67.49",
+    "total_reviews": "60",
+    "image_url": "https://m.media-amazon.com/images/I/81eLCf88rWL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:46:55.448319"
+  },
+  {
+    "title": "INSMY Small Bluetooth Speaker, Waterproof Mini Portable Wireless Speaker, Punchy Bass Rich Audio Stereo Pairing, Handheld Pocket Size, Built in Mic for Hiking Biking Gift Laptop Tablet (Red)",
+    "price": "$17.84",
+    "total_reviews": "2,654",
+    "image_url": "https://m.media-amazon.com/images/I/617taWu1HDL._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:46:55.449751"
+  },
+  {
+    "title": "Magnetic Bluetooth Speaker, Portable Mini Bluetooth Speaker Small with Cell Phone Stand, 7H Playtime, 5W Internal-Magnet Loudspeaker,TWS, RGB Light, TF Card Playing, Included Magnetic Ring and Lanyard",
+    "price": "$12.99",
+    "total_reviews": "316",
+    "image_url": "https://m.media-amazon.com/images/I/61LA--Oi16L._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:46:55.451177"
+  },
+  {
+    "title": "Monitor Speakers, Computer Speakers for Desktop PC, USB Speaker with Integrated USB A Type C Connector, Easily Clamp to Monitors, 10W(Black)",
+    "price": "$19.93",
+    "total_reviews": "17",
+    "image_url": "https://m.media-amazon.com/images/I/51nUA+k8s8L._AC_UY218_.jpg",
+    "scraped_time": "2025-04-24T17:46:55.452580"
   }
 ]
